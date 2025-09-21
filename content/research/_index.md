@@ -9,7 +9,7 @@ title = 'Research'
 My research spans **gravitational-wave astrophysics**, **deep learning**, **machine learning**, **atmospheric physics**, and **theoretical acoustics**.  
 These days I work full-time in tech as an **AI researcher**, but I continue gravitational wave research on the side — at the intersection of deep learning and gravitational wave astronomy.
 
-![Me at LIGO](/img/bunny_suit.jpg)
+![Me at LIGO](/img/bunny_suit.JPG)
 
 ---
 
