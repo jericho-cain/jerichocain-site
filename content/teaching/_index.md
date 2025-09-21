@@ -13,7 +13,7 @@ I believe students learn best through active engagement. I encourage problem-sol
 ## Current Courses
 
 - **PHY 201 — General Physics (Fall 2025)**  
-  [View online syllabus →](/teaching/physics201/)
+  [View online syllabus →](/teaching/physics201/) · [Download PDF](/files/syllabi/PHY_201_40113_Cain_J.pdf)
 
 
 
