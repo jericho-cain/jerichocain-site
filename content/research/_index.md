@@ -1,6 +1,6 @@
 +++
 date = '2025-09-21T12:14:00-07:00'
-draft = true
+draft = false
 title = 'Research'
 +++
 
