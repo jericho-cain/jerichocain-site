@@ -1,21 +1,20 @@
 ---
-title: "PHY 201 — General Physics (Fall 2025)"
+title: "PHY 201 General Physics"
 draft: false
 ---
 
-# PHY 201 — General Physics (Fall 2025)
+# Fall 2005
 
-**Instructor:** Jericho Cain, PhD  
-**Email:** jericho.cain@pcc.edu  
-**Office:** Virtual (via D2L)  
-**Course CRN:** 40113 — 4 credits  
+*Instructor: Jericho Cain, Ph.D.*
 
-**Meets:**  
-- **Lecture:** Tuesday 9:00 AM – 11:50 AM, Jackson Hall Room 113  
-- **Lab:** Tuesday 1:00 PM – 3:50 PM, Jackson Hall Room 113  
+Welcome to the course page for **PHY 201**. This page contains the syllabus, lecture materials, and assignments.
 
-**Office Hours:** By appointment  
-**Final Exam:** 12/13/2025  
+---
+
+## Syllabus
+
+[Download PDF](/files/syllabi/PHY_201_40113_Cain_J.pdf)
+
 
 ---
 
@@ -32,37 +31,8 @@ Students will gain both conceptual understanding and practical experience throug
 
 ---
 
-## Required Materials
-- Scientific Calculator (not a cell phone)  
-- Textbook  
+## Class Schedule
 
----
-
-## Grading Criteria
-- **Tests (3):** 60%  
-- **Homework (9):** 10%  
-- **Lab (9):** 30%  
-
-Letter grades follow PCC guidelines:  
-- A = 90–100%  
-- B = 80–89%  
-- C = 70–79%  
-- D = 55–69%  
-- F = below 55%:contentReference[oaicite:1]{index=1}
-
----
-
-## Policies
-- **Exams:** Three exams; final is cumulative and counts for 30%.  
-- **Homework:** Submitted through D2L, graded for completeness.  
-- **Labs:** Must include worksheets + lab reports. One dropped grade allowed.  
-- **Attendance:** Required for lecture and lab.  
-
-See [PCC grading guidelines](http://www.pcc.edu/student-records/grading) and [student rights](https://www.pcc.edu/student-life/student-rights/) for more details.
-
----
-
-## Class Schedule (Subject to Change)
 | Date       | Chapter | Topic / Lab / Due |
 |------------|---------|-------------------|
 | 09/27/25   | 1 | Introduction & Mathematical Concepts <br> **Lab 1:** Measurement, Graphing, Prediction |
@@ -80,10 +50,11 @@ See [PCC grading guidelines](http://www.pcc.edu/student-records/grading) and [st
 
 ---
 
-## Accessibility & Equity Statements
-- **Disability Services:** Students with disability-related barriers should contact [PCC Disability Services](https://www.pcc.edu/disability).  
-- **Title IX / Nondiscrimination:** PCC prohibits discrimination and misconduct. Contact the Office of Equity and Inclusion (971) 722-5840 or equity.inclusion@pcc.edu.  
-- **Sanctuary Policy:** PCC supports undocumented students. See [resources](https://www.pcc.edu/resources/undocumented-students/).  
+## Lecture Notes
+*coming soon*
+
+## Homework Assignments
+*coming soon*
 
 ---
 
