@@ -4,8 +4,6 @@ draft = false
 title = 'Teaching'
 +++
 
-# Teaching
-
 ## Teaching Philosophy:
 
 I view teaching physics and astronomy as more than the transfer of knowledge — it is an opportunity to train students in critical thinking and scientific reasoning that will serve them well beyond the classroom. Whether I am teaching algebra-based physics, calculus-based physics, or introductory astronomy, I emphasize connecting fundamental principles to real-world and cutting-edge applications. My background in gravitational wave astrophysics, machine learning, and atmospheric physics allows me to bring fresh research examples into lectures, helping students see science as a living and evolving discipline.
