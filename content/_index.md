@@ -7,7 +7,7 @@ draft = false
 
 Welcome! My name is **Dr. Jericho Cain**. I’m a physicist, astronomer, tech professional, educator, and astrophotographer.  
 
-These days I work full time in the tech industry as an **AI researcher**, applying machine and deep learning to real-world problems. Alongside that, I continue my academic work in **gravitational wave astrophysics**, focusing on the intersection of **deep learning** and the search for signals from the cosmos.  
+These days I work full time in the tech industry as an **AI researcher**, applying machine and deep learning to real-world problems. I also teach one college physics class per quarter. Alongside that, I continue my academic work in **gravitational wave astrophysics**, focusing on the intersection of **deep learning** and the search for signals from the cosmos.  
 
 My research background spans **Gravitational Wave Astrophysics, Deep Learning, Machine Learning, Atmospheric Physics, and Theoretical Acoustics**. I enjoy bridging physics with computational methods to uncover new insights about the universe.  
 
