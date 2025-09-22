@@ -135,9 +135,60 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
   });
 </script>
 
+---
 
+## Equipment:
+
+
+{{< gearset >}}
+
+{{< gear title="Camera – ZWO ASI2600MM" >}}
+Large APS-C sensor, cooled, and with a wide field of view, the ASI2600MM is one of the best value mono cameras on the market. It’s a workhorse that delivers clean data night after night.
+{{< /gear >}}
+
+{{< gear title="Mount – ZWO AM5" >}}
+Exceptionally portable and easy to run with NINA, the AM5 punches above its weight for a strain-wave mount. I plan to keep it as my travel mount even if I eventually set up a heavier pier-mounted system.
+{{< /gear >}}
+
+{{< gear title="Telescope – Askar FRA400" >}}
+This 72 mm quintuplet refractor is wonderfully simple because there’s no backfocus math to do. It’s sharp and portable, though I wish the manufacturer offered a fitted hard case.
+{{< /gear >}}
+
+{{< gear title="Autofocus – ZWO EAF (wired)" >}}
+The wired Electronic Automatic Focuser is simple, reliable, and integrates perfectly with NINA. Once you use it, you’ll never want to go back to manual focusing.
+{{< /gear >}}
+
+{{< gear title="Calibration – DeepSkyDad FP2" >}}
+Automating flats and dark flats saves me huge amounts of time at the end of a session. With NINA integration, everything is wrapped up by the time I’m packing my gear away.
+{{< /gear >}}
+
+{{< gear title="Filters – Antlia 3 nm Narrowband + LRGB" >}}
+The 3 nm narrowband set delivers excellent contrast with minimal halos, while the LRGB filters give me clean color data. Together they’ve become my default filter set for most projects.
+{{< /gear >}}
+
+{{< gear title="Power – Pegasus Astro Ultimate Powerbox v3" >}}
+This isn’t a small accessory — it’s the central hub that powers and manages my entire setup. With reliable power delivery and USB control, it keeps the rig organized and dependable.
+{{< /gear >}}
+
+{{< gear title="Guiding – Askar 32 mm Guidescope + ZWO ASI120MM Mini" >}}
+The Askar 32 mm guidescope paired with the ASI120MM Mini keeps guiding precise and trouble-free. It’s a lightweight setup that just works.
+{{< /gear >}}
+
+{{< gear title="Dew Control – Dew Not 3\" Heater Strip" >}}
+The Dew Not strip wraps around my optics to keep them dry all night. Simple, reliable, and one of those things you don’t think about until you don’t have it.
+{{< /gear >}}
+
+{{< gear title="Control Computer – Beelink S12 Mini PC" >}}
+This Alder Lake-N mini PC is compact and efficient, perfect for running NINA, guiding, and image storage in the field. It’s quiet, sips power, and is more than enough for capture tasks even if it’s not built for heavy PixInsight crunching.
+{{< /gear >}}
+
+{{< gear title="Software – NINA + PixInsight" >}}
+NINA opened the door to full automation for me after I outgrew ASIAIR, and it’s been rock solid. In PixInsight I lean on BlurXTerminator, NoiseXTerminator, StarXTerminator, and core tools like LHT and MLT — and though I usually compare GHS to a masked stretch, I find the masked stretch often wins.
+{{< /gear >}}
+
+{{< /gearset >}}
 
 ---
 
-
+[← Back to Home](/)
 

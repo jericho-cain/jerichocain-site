@@ -13,3 +13,17 @@ img[alt="Jericho Cain"] {
   display: block;
   clear: both;
 }
+
+.gearset {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+@media (min-width: 768px) {
+  .gearset { grid-template-columns: 1fr 1fr; }
+}
+.gear-item { padding: 1rem; border-left: 4px solid #888; background: #f9f9f9; }
+.gear-item h3 { margin: 0 0 .5rem; font-size: 1.15rem; }
+
+

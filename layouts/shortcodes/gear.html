@@ -1,0 +1,7 @@
+<div class="gear-item">
+  {{ with .Get "title" }}<h3>{{ . }}</h3>{{ end }}
+  <div class="gear-body">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
+
