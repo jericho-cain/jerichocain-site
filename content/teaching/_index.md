@@ -7,7 +7,7 @@ title = 'Teaching'
 
 ## Current Courses
 
-- **PHY 201 — General Physics I** [Fall 2005](/teaching/physics201/)
+- **PHY 201 — General Physics I** [Fall 2025](/teaching/physics201/)
 
 ## Upcoming Courses
 
