@@ -11,10 +11,6 @@ draft = false
 ![Bellatrix Observatory banner](/img/bellatrix-banner.png)
 
 
-
-# Bellatrix Observatory
-
-
 Click any image, then use **← / →** keys or on-screen arrows to navigate. Press **Esc** or click outside to close.
 
 <div id="astro-gallery" class="gallery"></div>
