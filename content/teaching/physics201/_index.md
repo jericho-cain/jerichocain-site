@@ -3,7 +3,7 @@ title: "PHY 201 General Physics"
 draft: false
 ---
 
-# Fall 2005
+# Fall 2025
 
 *Instructor: Jericho Cain, Ph.D.*
 
@@ -49,15 +49,21 @@ Students will gain both conceptual understanding and practical experience throug
 | 12/13/25   | Final Exam | **Final Exam** <br> HW 9 Due, Lab 9 Due |
 
 ---
+<div class="teaching">
 
 ## Lecture Slides
 
 - [Course Introduction and Math Review](/files/lecture_slides/lecture_1.pdf)
 - [Chapter Two: Kinematics in One Dimension](/files/lecture_slides/lecture_2.pdf)
 
+</div>
+
+<div class="teaching">
+
 ## Homework Assignments
 *coming soon*
 
+</div>
 ---
 
 [← Back to Teaching](/teaching/)
