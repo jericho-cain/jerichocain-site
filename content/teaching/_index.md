@@ -5,6 +5,8 @@ title = 'Teaching'
 +++
 
 
+<div class="teaching">
+
 ## Current Courses
 
 - **PHY 201 — General Physics I** [Fall 2025](/teaching/physics201/)
@@ -25,6 +27,7 @@ title = 'Teaching'
 - Calculus-based Physics
 - Astronomy
 
+</div>
 ---
 
 [← Back to Home](/)
