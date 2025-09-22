@@ -128,7 +128,7 @@ def render_entry(fields: dict) -> str:
     authors = fmt_authors(clean_tex(fields.get("author","")))
     title = title_md(fields)
     venue = venue_string(fields)
-    year = get_year(fields) or "n.d."
+    ydisp = year_display(fields)     # <-- use display string
     tail = []
     doi = clean_tex(fields.get("doi"))
     if doi:
@@ -141,8 +141,9 @@ def render_entry(fields: dict) -> str:
     line = f"- {authors}. **{title}**"
     if venue:
         line += f". *{venue}*"
-    line += f", {year}{tail_str}"
+    line += f", {ydisp}{tail_str}"
     return line
+
 
 def group_by_year(parsed):
     by = {}
@@ -150,6 +151,35 @@ def group_by_year(parsed):
         y = get_year(f)
         by.setdefault(y, []).append(f)
     return dict(sorted(by.items(), key=lambda kv: kv[0], reverse=True))
+
+import re
+
+def year_display(fields: dict) -> str:
+    y = (fields.get("year") or "").strip()
+    if not y:
+        return "n.d."
+    # handle BibTeX ranges: "2008 --2011", "2008--2011", "2008–2011"
+    m = re.search(r'(\d{4})\s*[-–—]{1,2}\s*(\d{4})', y)
+    if m:
+        return f"{m.group(1)}–{m.group(2)}"  # en dash
+    m = re.search(r'(\d{4})', y)
+    if m:
+        return m.group(1)
+    return "n.d."
+
+def clean_tex(s: str) -> str:
+    if not s:
+        return ""
+    s = s.replace(r"\&", "&")
+    s = s.replace(r"---", "—").replace(r"--", "–")
+    # strip \url{...} and \url https://... wrappers
+    s = re.sub(r"\\url\{([^}]+)\}", r"\1", s)
+    s = re.sub(r"\\url\s*([^\s]+)", r"\1", s)
+    s = re.sub(r"[{}]", "", s)
+    return s
+
+
+
 
 def main():
     bib = load_bibtex(BIB_PATH)
