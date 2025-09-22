@@ -63,8 +63,8 @@ Students will gain both conceptual understanding and practical experience throug
 
 ## Homework Assignments
 
-- [Homework 1: Math and Vectors](/files/hw/physics_201/hw_1.pdf)
-- [Homework 2: Kinematics in One Dimension](/files/hw/physics_201/hw_2.pdf)
+- [Homework 1: Math and Vectors](/files/hw/physics_201/hw1.pdf)
+- [Homework 2: Kinematics in One Dimension](/files/hw/physics_201/hw2.pdf)
 
 </div>
 ---
