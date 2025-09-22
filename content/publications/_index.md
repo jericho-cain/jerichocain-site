@@ -34,5 +34,5 @@ _This list is generated from `data/pubs.bib`._
 
 ## 2008
 
-- The LIGO Scientific Collaboration, Virgo Collaboration, **Jericho Cain**. **Complete list of collaboration publications**. *https://www.ligo.org/scientists/publications.php*, 2008–2011
-- Roger Waxler, Kenneth E. Gilbert, **Jericho Cain**. **[The Radiation of Microbaroms from Isolated Hurricanes over Water](https://doi.org/10.1063/1.2838136,  # example DOI; check actual if different)**. *AIP Advances / Atmospheric Chemistry and Physics, **1022**, (1), 417-427*, 2008 · [DOI](https://doi.org/10.1063/1.2838136,  # example DOI; check actual if different)
+- The LIGO Scientific Collaboration, Virgo Collaboration, **Jericho Cain**. **Complete list of collaboration publications**. *https://www.ligo.org/scientists/publications.php*, 2008–2010
+- Roger Waxler, Kenneth E. Gilbert, **Jericho Cain**. **[The Radiation of Microbaroms from Isolated Hurricanes over Water](https://doi.org/10.1063/1.2838136)**. *AIP Advances / Atmospheric Chemistry and Physics, **1022**, (1), 417-427*, 2008 · [DOI](https://doi.org/10.1063/1.2838136)
