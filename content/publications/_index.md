@@ -9,7 +9,6 @@ _This list is generated from `data/pubs.bib`._
 ## 2025
 
 - **Jericho Cain**. **CWT-LSTM Autoencoder: A Novel Approach for Gravitational Wave Detection in LIGO Data**. *in preparation*, 2025
-- **Jericho Cain**. **CWT-LSTM Autoencoder: A Novel Approach for Gravitational Wave Detection in LIGO Data**. *Classical and Quantum Gravity*, 2025
 - **Jericho Cain**. **[CWT-LSTM Autoencoder: A Novel Approach for Gravitational Wave Detection in Synthetic Data](https://doi.org/10.48550/arXiv.2509.10505)**. *arXiv preprint arXiv:2509.10505*, 2025 · [DOI](https://doi.org/10.48550/arXiv.2509.10505)
 
 ## 2024
