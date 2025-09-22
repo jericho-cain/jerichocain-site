@@ -14,10 +14,4 @@ These days I work full time in the tech industry as an AI researcher, applying m
 
 <div class="clearfix"></div>
 
----
-
-## Explore
-
-- [Research](/research/) — projects, publications, and collaborations.  
-- [Teaching](/teaching/) — courses, lectures, and resources.  
-- [Astrophotography](/astrophotography/) — a gallery of night sky images.  
+---  
