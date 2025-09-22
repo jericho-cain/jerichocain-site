@@ -19,7 +19,7 @@ Welcome to the course page for **PHY 201**. This page contains the syllabus, lec
 ---
 
 ## Course Description
-This course introduces the principles of classical mechanics, with an emphasis on applications relevant to life science, pre-medical, and technology-oriented fields. Topics include linear and two-dimensional motion, forces and Newton’s laws, energy, momentum, circular motion, and rotational dynamics. The course is algebra-based and designed for students pursuing science-related majors, including pre-medical, pre-dental, pre-chiropractic, and pre-physical therapy tracks:contentReference[oaicite:0]{index=0}.
+This course introduces the principles of classical mechanics, with an emphasis on applications relevant to life science, pre-medical, and technology-oriented fields. Topics include linear and two-dimensional motion, forces and Newton’s laws, energy, momentum, circular motion, and rotational dynamics. The course is algebra-based and designed for students pursuing science-related majors, including pre-medical, pre-dental, pre-chiropractic, and pre-physical therapy tracks.
 
 Students will gain both conceptual understanding and practical experience through integrated laboratory activities, quantitative problem-solving, and the exploration of physics in real-world and technological contexts.
 
@@ -46,7 +46,7 @@ Students will gain both conceptual understanding and practical experience throug
 | 11/22/25   | 8 | Rotational Kinematics <br> **Lab 7:** Work & Kinetic Energy |
 | 11/29/25   | 9 | Rotational Dynamics <br> **Lab 8:** Collisions <br> HW 7 Due, Lab 7 Due |
 | 12/06/25   | 9 (cont.) | Review (Ch. 7–9) <br> **Lab 9:** Torque <br> HW 8 Due, Lab 8 Due |
-| 12/13/25   | Final Exam | **Final Exam** <br> HW 9 Due, Lab 9 Due:contentReference[oaicite:2]{index=2} |
+| 12/13/25   | Final Exam | **Final Exam** <br> HW 9 Due, Lab 9 Due |
 
 ---
 
