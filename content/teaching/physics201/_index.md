@@ -50,8 +50,10 @@ Students will gain both conceptual understanding and practical experience throug
 
 ---
 
-## Lecture Notes
-*coming soon*
+## Lecture Slides
+
+- [Course Introduction and Math Review](/files/lecture_slides/lecture_1.pdf)
+- [Chapter Two: Kinematics in One Dimension](/files/lecture_slides/lecture_2.pdf)
 
 ## Homework Assignments
 *coming soon*
