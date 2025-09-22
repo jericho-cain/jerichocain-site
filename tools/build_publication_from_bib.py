@@ -5,7 +5,7 @@ import datetime
 
 # ---- SETTINGS ----
 BIB_PATH = Path("static/pubs.bib")            # where your BibTeX lives
-OUT_PATH = Path("content/research/publications/_index.md")
+OUT_PATH = Path("content/publications/_index.md")
 YOUR_NAME_REGEX = re.compile(r"\bJericho\b\s+\bCain\b", re.I)  # bold your name
 # ------------------
 
