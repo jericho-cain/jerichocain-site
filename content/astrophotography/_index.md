@@ -37,35 +37,35 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
 
   // Optional: captions (fallback to filename if missing)
   const CAPTIONS = {
-  "hip_106890.png": "HIP 106890 (Fomalhaut) — Distance: ~25 ly — Size: ~1.8 R☉ — An A-type main sequence star with a prominent debris disk, often studied for exoplanet formation.",
+  "hip_106890.jpg": "HIP 106890 (Fomalhaut) — Distance: ~25 ly — Size: ~1.8 R☉ — An A-type main sequence star with a prominent debris disk, often studied for exoplanet formation.",
   
-  "ic_1805.png": "IC 1805 (Heart Nebula) — Distance: ~7,500 ly — Size: ~200 ly — Emission nebula rich in ionized hydrogen, powered by young massive stars in open cluster Melotte 15.",
+  "ic_1805.jpg": "IC 1805 (Heart Nebula) — Distance: ~7,500 ly — Size: ~200 ly — Emission nebula rich in ionized hydrogen, powered by young massive stars in open cluster Melotte 15.",
   
-  "ic_1848.png": "IC 1848 (Soul Nebula) — Distance: ~7,500 ly — Size: ~150 ly — Star-forming emission nebula adjacent to the Heart Nebula, containing embedded star clusters.",
+  "ic_1848.jpg": "IC 1848 (Soul Nebula) — Distance: ~7,500 ly — Size: ~150 ly — Star-forming emission nebula adjacent to the Heart Nebula, containing embedded star clusters.",
   
-  "m27.png": "M27 (Dumbbell Nebula) — Distance: ~1,360 ly — Size: ~2.5 ly — A planetary nebula formed by a dying sun-like star shedding its outer layers.",
+  "m27.jpg": "M27 (Dumbbell Nebula) — Distance: ~1,360 ly — Size: ~2.5 ly — A planetary nebula formed by a dying sun-like star shedding its outer layers.",
   
-  "m51.png": "M51 (Whirlpool Galaxy) — Distance: ~23 million ly — Size: ~76,000 ly — A grand-design spiral galaxy interacting with its companion NGC 5195, triggering star formation.",
+  "m51.jpg": "M51 (Whirlpool Galaxy) — Distance: ~23 million ly — Size: ~76,000 ly — A grand-design spiral galaxy interacting with its companion NGC 5195, triggering star formation.",
   
-  "m81.png": "M81 (Bode’s Galaxy) — Distance: ~12 million ly — Size: ~90,000 ly — A large spiral galaxy with an active galactic nucleus, close neighbor of M82.",
+  "m81.jpg": "M81 (Bode’s Galaxy) — Distance: ~12 million ly — Size: ~90,000 ly — A large spiral galaxy with an active galactic nucleus, close neighbor of M82.",
   
-  "m101.png": "M101 (Pinwheel Galaxy) — Distance: ~21 million ly — Size: ~170,000 ly — A face-on spiral galaxy with striking spiral arms and intense star formation regions.",
+  "m101.jpg": "M101 (Pinwheel Galaxy) — Distance: ~21 million ly — Size: ~170,000 ly — A face-on spiral galaxy with striking spiral arms and intense star formation regions.",
   
-  "ngc_281.png": "NGC 281 (Pacman Nebula) — Distance: ~9,200 ly — Size: ~48 ly — Emission nebula featuring dark dust lanes and active star formation.",
+  "ngc_281.jpg": "NGC 281 (Pacman Nebula) — Distance: ~9,200 ly — Size: ~48 ly — Emission nebula featuring dark dust lanes and active star formation.",
   
-  "ngc_6888.png": "NGC 6888 (Crescent Nebula) — Distance: ~5,000 ly — Size: ~25 ly — Formed by fast stellar winds from the Wolf–Rayet star WR 136 colliding with earlier ejected material.",
+  "ngc_6888.jpg": "NGC 6888 (Crescent Nebula) — Distance: ~5,000 ly — Size: ~25 ly — Formed by fast stellar winds from the Wolf–Rayet star WR 136 colliding with earlier ejected material.",
   
-  "ngc_6960.png": "NGC 6960 (Western Veil Nebula, Witch’s Broom) — Distance: ~2,400 ly — Size: ~35 ly — Supernova remnant filament in the Veil Nebula complex.",
+  "ngc_6960.jpg": "NGC 6960 (Western Veil Nebula, Witch’s Broom) — Distance: ~2,400 ly — Size: ~35 ly — Supernova remnant filament in the Veil Nebula complex.",
   
-  "ngc_6992.png": "NGC 6992 (Eastern Veil Nebula) — Distance: ~2,400 ly — Size: ~35 ly — Another filamentary arc of the Veil Nebula, remains of a ~20,000-year-old supernova.",
+  "ngc_6992.jpg": "NGC 6992 (Eastern Veil Nebula) — Distance: ~2,400 ly — Size: ~35 ly — Another filamentary arc of the Veil Nebula, remains of a ~20,000-year-old supernova.",
   
-  "ngc_7000.png": "NGC 7000 (North America Nebula) — Distance: ~2,590 ly — Size: ~100 ly — Emission nebula shaped like North America, rich in hydrogen-alpha emission.",
+  "ngc_7000.jpg": "NGC 7000 (North America Nebula) — Distance: ~2,590 ly — Size: ~100 ly — Emission nebula shaped like North America, rich in hydrogen-alpha emission.",
   
-  "ngc_7380.png": "NGC 7380 (Wizard Nebula) — Distance: ~7,200 ly — Size: ~100 ly — Nebula surrounding an open cluster, shaped by stellar winds and radiation from young stars.",
+  "ngc_7380.jpg": "NGC 7380 (Wizard Nebula) — Distance: ~7,200 ly — Size: ~100 ly — Nebula surrounding an open cluster, shaped by stellar winds and radiation from young stars.",
   
-  "ngc_7635.png": "NGC 7635 (Bubble Nebula) — Distance: ~7,100 ly — Size: ~10 ly — Bubble-shaped emission nebula sculpted by the stellar wind of a massive O-type star.",
+  "ngc_7635.jpg": "NGC 7635 (Bubble Nebula) — Distance: ~7,100 ly — Size: ~10 ly — Bubble-shaped emission nebula sculpted by the stellar wind of a massive O-type star.",
   
-  "sh2_101.png": "Sh2-101 (Tulip Nebula) — Distance: ~6,000 ly — Size: ~70 ly — Emission nebula in Cygnus, bright in hydrogen-alpha, with striking petal-like structure."
+  "sh2_101.jpg": "Sh2-101 (Tulip Nebula) — Distance: ~6,000 ly — Size: ~70 ly — Emission nebula in Cygnus, bright in hydrogen-alpha, with striking petal-like structure."
 };
 
 
