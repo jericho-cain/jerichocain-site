@@ -53,15 +53,17 @@ Students will gain both conceptual understanding and practical experience throug
 
 ## Lecture Slides
 
-- [Course Introduction and Math Review](/files/lecture_slides/lecture_1.pdf)
-- [Chapter Two: Kinematics in One Dimension](/files/lecture_slides/lecture_2.pdf)
+- [Course Introduction and Math Review](/files/lecture_slides/physics_201/lecture_1.pdf)
+- [Chapter Two: Kinematics in One Dimension](/files/lecture_slides/physics_201/lecture_2.pdf)
 
 </div>
 
 <div class="teaching">
 
 ## Homework Assignments
-*coming soon*
+
+- [Homework 1: Math and Vectors](/files/hw/physics_201/hw.pdf)
+- [Homework 2: Kinematics in One Dimension](/files/hw/physics_201/hw.pdf)
 
 </div>
 ---
