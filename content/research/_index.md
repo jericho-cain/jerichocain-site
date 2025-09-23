@@ -17,13 +17,12 @@ These days I work full-time in tech as an **AI researcher**, but I continue grav
 See the full list here: [/publications/](/publications/)
 
 ---
-<div class="teaching">
 
 ## Latest Project
 
 [Gravitational Wave Hunting with AWS + LIGO Data](https://github.com/jericho-cain/gravWH/tree/aws-ligo-data). 
+
 I develop novel machine learning architectures that combine continuous wavelet transforms with LSTM autoencoders to detect gravitational wave signals buried in LIGO interferometer noise, enabling the discovery of previously undetectable astrophysical events.
-</div>
 
 ---
 [← Back to Home](/)
