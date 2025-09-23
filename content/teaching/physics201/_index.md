@@ -70,7 +70,14 @@ Students will gain both conceptual understanding and practical experience throug
 ## Homework Assignments
 
 - [Homework 1: Math and Vectors](/files/hw/physics_201/hw1.pdf)
-- [Homework 2: Kinematics in One Dimension](/files/hw/physics_201/hw2.pdf)
+- [Homework 2: Kinematics in One Dimension](/files/hw/physics_201/hw2.pdf)  
+- [Homework 3: Kinematics in Two Dimension](/files/hw/physics_201/hw3.pdf)
+- [Homework 4: Forces and Newton's 2nd Law](/files/hw/physics_201/hw4.pdf)
+- [Homework 5: Dynamics of Circular Motion](/files/hw/physics_201/hw5.pdf)
+- [Homework 6: Work and Energy](/files/hw/physics_201/hw6.pdf)
+- [Homework 7: Impulse and Momentum](/files/hw/physics_201/hw7.pdf)
+- [Homework 8: Rotational Kinematics](/files/hw/physics_201/hw8.pdf)
+- [Homework 9: Rotational Dynamics](/files/hw/physics_201/hw9.pdf)
 
 </div>
 ---
