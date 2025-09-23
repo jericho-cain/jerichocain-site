@@ -33,6 +33,8 @@ Students will gain both conceptual understanding and practical experience throug
 
 ## Class Schedule
 
+<div class="schedule">
+
 | Date       | Chapter | Topic / Lab / Due |
 |------------|---------|-------------------|
 | 09/27/25   | 1 | Introduction & Mathematical Concepts <br> **Lab 1:** Measurement, Graphing, Prediction |
@@ -47,6 +49,8 @@ Students will gain both conceptual understanding and practical experience throug
 | 11/29/25   | 9 | Rotational Dynamics <br> **Lab 8:** Collisions <br> HW 7 Due, Lab 7 Due |
 | 12/06/25   | 9 (cont.) | Review (Ch. 7–9) <br> **Lab 9:** Torque <br> HW 8 Due, Lab 8 Due |
 | 12/13/25   | Final Exam | **Final Exam** <br> HW 9 Due, Lab 9 Due |
+
+</div>
 
 ---
 <div class="teaching">
