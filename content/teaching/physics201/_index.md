@@ -25,10 +25,14 @@ Students will gain both conceptual understanding and practical experience throug
 
 ---
 
-## Textbook
-- *Physics* by Cutnell and Johnson, 12th Edition (Editions 10–12 acceptable)  
-- *College Physics* by Knight and *College Physics* by Serway (any editions) are excellent supplementary texts.
+<div class ="teaching">
 
+## Textbooks
+- Primary: [*Physics* by Cutnell and Johnson, 12th Edition](https://www.wileyplus.com/physics/cutnell-physics-12e-eprof21349/) (Editions 10–12 acceptable)  
+- Supplement: [*College Physics* by Knight](https://www.pearson.com/en-us/subject-catalog/p/college-physics-a-strategic-approach/P200000007003/9780137561520) (any edition)
+- Supplement: [*College Physics* by Serway](https://www.cengage.com/c/student/9780357976425/?filterBy=Student) (any edition)
+
+</div>
 ---
 
 ## Class Schedule
