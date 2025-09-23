@@ -56,6 +56,12 @@ Students will gain both conceptual understanding and practical experience throug
 - [Course Introduction and Math Review](/files/lecture_slides/physics_201/lecture_1.pdf)
 - [Chapter Two: Kinematics in One Dimension](/files/lecture_slides/physics_201/lecture_2.pdf)
 - [Chapter Three: Kinematics in Two Dimensions](/files/lecture_slides/physics_201/lecture_3.pdf)
+- [Chapter Four: Forces and Newton's 2nd Law](/files/lecture_slides/physics_201/lecture_4.pdf)
+- [Chapter Five: Dynamics of Circular Motion](/files/lecture_slides/physics_201/lecture_5.pdf)
+- [Chapter Six: Work and Energy](/files/lecture_slides/physics_201/lecture_6.pdf)
+- [Chapter Seven: Impulse and Momentum](/files/lecture_slides/physics_201/lecture_7.pdf)
+- [Chapter Eight: Rotational Kinematics](/files/lecture_slides/physics_201/lecture_8.pdf)
+- [Chapter Nine: Rotational Dynamics](/files/lecture_slides/physics_201/lecture_9.pdf) *coming soon*
 
 </div>
 
