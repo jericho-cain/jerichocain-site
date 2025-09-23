@@ -21,8 +21,8 @@ See the full list here: [/publications/](/publications/)
 
 ## Latest Project
 
-[Gravitational Wave Hunting with AWS + LIGO Data](https://github.com/jericho-cain/gravWH/tree/aws-ligo-data). I transform LIGO data using continuous wavelet transforms and then look for anomolies using LSTMs.  
-
+[Gravitational Wave Hunting with AWS + LIGO Data](https://github.com/jericho-cain/gravWH/tree/aws-ligo-data). 
+I develop novel machine learning architectures that combine continuous wavelet transforms with LSTM autoencoders to detect gravitational wave signals buried in LIGO interferometer noise, enabling the discovery of previously undetectable astrophysical events.
 </div>
 
 ---
