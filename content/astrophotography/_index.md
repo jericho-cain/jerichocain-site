@@ -18,6 +18,7 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
 <script>
   // List your filenames here (only the file names):
   const IMAGES = [
+    "m31.jpg",
     "hip_106890.jpg",
     "ic_1805.jpg",
     "ic_1848.jpg",
@@ -37,6 +38,8 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
 
   // Optional: captions (fallback to filename if missing)
   const CAPTIONS = {
+  "m31.jpg": "M31 (Andromeda Galaxy) — Distance: ~2.54 million ly — Size: ~220,000 ly across — A barred spiral galaxy and the nearest major galaxy to the Milky Way, containing about one trillion stars and numerous satellite galaxies.",
+
   "hip_106890.jpg": "HIP 106890 (Fomalhaut) — Distance: ~25 ly — Size: ~1.8 R☉ — An A-type main sequence star with a prominent debris disk, often studied for exoplanet formation.",
   
   "ic_1805.jpg": "IC 1805 (Heart Nebula) — Distance: ~7,500 ly — Size: ~200 ly — Emission nebula rich in ionized hydrogen, powered by young massive stars in open cluster Melotte 15.",
