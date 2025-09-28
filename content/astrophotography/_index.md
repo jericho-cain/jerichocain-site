@@ -10,6 +10,7 @@ draft = false
 
 ![Bellatrix Observatory banner](/img/bellatrix-banner.png)
 
+Higher resolution pictures that are annotated can be found in my [astrobin account](https://app.astrobin.com/u/milkywaytransit#gallery).  Also, follow me on instagram @milkywaytransit.
 
 Click any image, then use **← / →** keys or on-screen arrows to navigate. Press **Esc** or click outside to close.
 
