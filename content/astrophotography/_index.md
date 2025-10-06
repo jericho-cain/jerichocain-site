@@ -34,7 +34,8 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
     "ngc_7000.jpg",
     "ngc_7380.jpg",
     "ngc_7635.jpg",
-    "sh2_101.jpg"
+    "sh2_101.jpg",
+    "m33.jpg"
   ];
 
   // Optional: captions (fallback to filename if missing)
@@ -69,7 +70,8 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
   
   "ngc_7635.jpg": "NGC 7635 (Bubble Nebula) — Distance: ~7,100 ly — Size: ~10 ly — Bubble-shaped emission nebula sculpted by the stellar wind of a massive O-type star.",
   
-  "sh2_101.jpg": "Sh2-101 (Tulip Nebula) — Distance: ~6,000 ly — Size: ~70 ly — Emission nebula in Cygnus, bright in hydrogen-alpha, with striking petal-like structure."
+  "sh2_101.jpg": "Sh2-101 (Tulip Nebula) — Distance: ~6,000 ly — Size: ~70 ly — Emission nebula in Cygnus, bright in hydrogen-alpha, with striking petal-like structure.",
+  "m33.jpg": "M33 (Triangulum Galaxy) – Distance: ~3 million light-years – Size: ~60,000 light-years across – A spiral galaxy and the third largest in our Local Group, containing about 40 billion stars."
 };
 
 
