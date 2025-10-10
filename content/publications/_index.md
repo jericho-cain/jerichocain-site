@@ -3,7 +3,7 @@ title = "Publications"
 draft = false
 +++
 
-_This list is generated from `data/pubs.bib`._
+_This list is generated from `static/pubs.bib`._
 
 
 ## 2025

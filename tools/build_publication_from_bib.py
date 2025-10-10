@@ -192,7 +192,7 @@ def main():
 
     lines = []
     lines.append('+++\ntitle = "Publications"\ndraft = false\n+++\n')
-    lines.append("_This list is generated from `data/pubs.bib`._\n")
+    lines.append("_This list is generated from `static/pubs.bib`._\n")
 
     for year, items in grouped.items():
         if year == 0 and not items:
