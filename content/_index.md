@@ -11,6 +11,7 @@ These days I work full time in the tech industry as an AI researcher, applying m
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jericho-c-96095287/)
 
+[CV](j_cain_cv.pdf)
 
 <div class="clearfix"></div>
 
