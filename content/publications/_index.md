@@ -8,6 +8,7 @@ _This list is generated from `static/pubs.bib`._
 
 ## 2025
 
+- **Jericho Cain**. **[Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data](https://arxiv.org/abs/2511.12845)**, 2025 · [arXiv](https://arxiv.org/abs/2511.12845)
 - **Jericho Cain**. **[Template-Free Gravitational Wave Detection with CWT-LSTM Autoencoders: A Case Study of Run-Dependent Calibration Effects in LIGO Data](https://doi.org/10.48550/arXiv.2509.10505)**. *arXiv preprint arXiv:2509.10505*, 2025 · [DOI](https://doi.org/10.48550/arXiv.2509.10505)
 
 ## 2024
