@@ -6,6 +6,7 @@ title = 'Teaching'
 
 
 <div class="teaching">
+
 ## Teaching Philosophy
 
 I approach teaching physics as a process of helping students see the subject as a coherent, connected narrative, rather than a collection of disconnected formulas. Introductory topics that are often perceived as “simple” or “boring” — kinematics, oscillations, conservation laws — are presented as the foundations of much deeper ideas that reappear throughout physics, from electromagnetism to quantum mechanics and general relativity.
