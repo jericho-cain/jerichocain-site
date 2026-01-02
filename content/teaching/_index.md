@@ -39,6 +39,10 @@ By framing introductory physics as the first chapter of a much larger story, I a
 - [Simple Harmonic Motion](/files/lecture_slides/physics_202/slides_lecture_10.pdf)
 - [Thermodynamics](/files/lecture_slides/physics_202/slides_lecture_15.pdf)
 
+## Graduate Level Lecture Notes Sample
+
+- [General Relativity (work in progress)](/files/lecture_slides/other/General_Relativity_Lecture_Notes.pdf)
+
 </div>
 ---
 
