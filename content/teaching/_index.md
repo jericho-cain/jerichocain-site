@@ -13,8 +13,6 @@ title = 'Teaching'
 
 ## Upcoming Courses
 
-- **PHY 202 - General Physics II** [Winter 2026]()
-
 - **PHY 203 - General Physics III** [Spring 2026]()
  
 - **PHY 201 - General Physics I** [Fall 2026]()
@@ -29,8 +27,8 @@ title = 'Teaching'
 
 ## Sample Lectures:
 
-- [Simple Harmonic Motion](/static/files/lecture_slides/physics_202/slides_lecture_10.pdf)
-- [Thermodynamics](/static/files/lecture_slides/physics_202/slides_lecture_15.pdf)
+- [Simple Harmonic Motion](/files/lecture_slides/physics_202/slides_lecture_10.pdf)
+- [Thermodynamics](/files/lecture_slides/physics_202/slides_lecture_15.pdf)
 
 </div>
 ---
