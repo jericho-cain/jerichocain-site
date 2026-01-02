@@ -32,6 +32,7 @@ Manuscript submitted to Classical and Quantum Gravity.
 
 
 [Gravitational Wave Hunting with CWT-LSTM Autoencoder in LIGO Data](https://github.com/jericho-cain/cwt-lstm-ae-grav-wav). 
+
 Gravitational-wave searches traditionally rely on matched filtering against large banks of theoretical waveforms, which can be computationally expensive and inherently biased toward known signal morphologies. In this project, I develop a template-free, unsupervised detection framework that combines physically motivated time–frequency representations with sequence-based machine learning.
 
 The method applies a continuous wavelet transform (CWT) to LIGO strain data to produce time–frequency representations aligned with the chirp-like evolution of compact binary coalescences. An LSTM-based autoencoder is then trained exclusively on detector noise, allowing gravitational-wave signals to be identified as anomalies without the use of waveform templates or labeled training data.
