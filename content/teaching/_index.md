@@ -9,7 +9,7 @@ title = 'Teaching'
 
 ## Current Courses
 
-- **PHY 201 — General Physics I** [Fall 2025](/teaching/physics201/)
+- **PHY 202 — General Physics II** [Winter 2026](/teaching/physics202/)
 
 ## Upcoming Courses
 
@@ -17,7 +17,7 @@ title = 'Teaching'
 
 - **PHY 203 - General Physics III** [Spring 2026]()
  
-
+- **PHY 201 - General Physics I** [Fall 2026]()
 
 
 ## Courses I’ve taught include:
@@ -26,6 +26,11 @@ title = 'Teaching'
 - Algebra-based Physics
 - Calculus-based Physics
 - Astronomy
+
+## Sample Lectures:
+
+- [Simple Harmonic Motion](/static/files/lecture_slides/physics_202/slides_lecture_10.pdf)
+- [Thermodynamics](/static/files/lecture_slides/physics_202/slides_lecture_15.pdf)
 
 </div>
 ---
