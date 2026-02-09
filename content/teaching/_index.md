@@ -22,7 +22,7 @@ By framing introductory physics as the first chapter of a much larger story, I a
 
 ## Upcoming Courses
 
-- **PHY 203 - General Physics III** [Spring 2026]()
+- **PHY 203 - General Physics III** [Spring 2026](/teaching/physics203/)
  
 - **PHY 201 - General Physics I** [Fall 2026]()
 
@@ -35,9 +35,6 @@ By framing introductory physics as the first chapter of a much larger story, I a
 - Astronomy
 
 ## Sample Lectures:
-
-- [Simple Harmonic Motion](/files/lecture_slides/physics_202/slides_lecture_10.pdf)
-- [Thermodynamics](/files/lecture_slides/physics_202/slides_lecture_15.pdf)
 
 ## Graduate Level Lecture Notes Sample
 
