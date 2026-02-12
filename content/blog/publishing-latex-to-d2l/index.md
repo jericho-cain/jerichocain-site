@@ -310,6 +310,7 @@ However, it offers a practical alternative to abandoning LaTeX entirely. Instead
 The process is intentionally manual in this post. But there is no fundamental reason it must remain so. With access to a documented API, LMS platforms such as D2L could support automated ingestion of structured LaTeX directories — converting lecture notes and slides into accessible HTML while preserving directory structure and assets. Even a modest API for uploading and organizing content programmatically would significantly streamline this workflow.
 
 Until such tools are available, this approach provides a reproducible bridge between modern LaTeX-based authoring and LMS delivery systems.
+
 ---
 
 [← Back to Blog]({{< relref "/blog/_index.md" >}})
