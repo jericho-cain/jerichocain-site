@@ -13,3 +13,25 @@
     {{- template "_internal/pagination.html" . -}}
   </article>
 {{ end }}
+
+{{ define "main" }}
+  <div class="blog-wrap">
+    <header class="blog-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}<div class="blog-intro">{{ . }}</div>{{ end }}
+    </header>
+
+    <ul class="blog-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <li class="blog-item">
+          <a class="blog-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <div class="blog-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          </div>
+          {{ with .Summary }}<p class="blog-summary">{{ . }}</p>{{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+

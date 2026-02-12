@@ -308,4 +308,4 @@ The process is intentionally manual in this post. But there is no fundamental re
 Until such tools are available, this approach provides a reproducible bridge between modern LaTeX-based authoring and LMS delivery systems.
 ---
 
-[← Back to Blog](/)
+[← Back to Blog]({{< relref "/blog/_index.md" >}})
