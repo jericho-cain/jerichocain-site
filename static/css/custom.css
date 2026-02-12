@@ -130,6 +130,18 @@ main article {
   max-width: 950px !important;
 }
 
+/* Ananke often wraps content in a flex row on large screens; center that row */
+main .flex-l,
+main .flex-ns,
+main .flex {
+  justify-content: center !important;
+}
+
+/* If the wrapper is artificially limiting width, let it expand */
+main .w-100 {
+  max-width: 950px;
+}
+
 
 
 
