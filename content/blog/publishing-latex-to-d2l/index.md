@@ -1,5 +1,7 @@
 +++
-title = 'Publishing Latex to D2L'
+title = "Publishing Latex to D2L"
+date = "2026-02-11T12:15:26-07:00"
+lastmod = "2026-02-11T20:45:00-07:00"
 draft = false
 +++
 

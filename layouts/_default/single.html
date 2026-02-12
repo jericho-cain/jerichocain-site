@@ -1,19 +1,15 @@
-{{ define "main" }}
-  <div class="mw7 center ph3 pv4">
+<div class="f6 gray mt2 mb4">
+  {{ $d := .Date }}
+  {{ if $d.IsZero }}
+    {{/* no published date */}}
+  {{ else }}
+    Published {{ $d.Format "January 2, 2006" }}
+  {{ end }}
 
-    <h1 class="f2">{{ .Title }}</h1>
-
-    <div class="f6 gray mt2 mb4">
-      Published {{ .Date.Format "January 2, 2006" }}
-      {{ if ne .Lastmod .Date }}
-        · Updated {{ .Lastmod.Format "January 2, 2006" }}
-      {{ end }}
-    </div>
-
-    <div class="nested-copy-line-height lh-copy">
-      {{ .Content }}
-    </div>
-
-  </div>
-{{ end }}
-
+  {{ $lm := .Lastmod }}
+  {{ if and (not $lm.IsZero) (or $d.IsZero) (ne $lm $d) }}
+    · Updated {{ $lm.Format "January 2, 2006" }}
+  {{ else if and (not $lm.IsZero) (not $d.IsZero) (ne $lm $d) }}
+    · Updated {{ $lm.Format "January 2, 2006" }}
+  {{ end }}
+</div>
