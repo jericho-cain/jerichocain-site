@@ -111,24 +111,25 @@ img[alt="Jericho Cain"] {
   margin: 0.6rem 0 0 0;
 }
 
-main {
-  display: flex;
-  justify-content: center;
-}
-
-main > * {
-  width: 100%;
-  max-width: 950px;
-}
-
-main .measure,
-main .measure-wide,
+/* Center Ananke content column (single + list pages) */
+main article,
+main section,
+main .nested-copy-line-height,
 main .mw8,
 main .mw7,
-main .mw6 {
-  margin-left: auto;
-  margin-right: auto;
+main .mw6,
+main .measure,
+main .measure-wide {
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
+
+/* Ensure the main article can expand and is not stuck left */
+main article {
+  width: 100% !important;
+  max-width: 950px !important;
+}
+
 
 
 
