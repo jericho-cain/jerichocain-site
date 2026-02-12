@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <div class="mw7 center ph3 pv4">
+    <h1 class="f2 mb2">{{ .Title }}</h1>
+
+    {{ if not .Date.IsZero }}
+      <div class="f6 gray mb4">
+        Published {{ .Date.Format "Jan 2, 2006" }}
+        {{ if and (not .Lastmod.IsZero) (ne .Lastmod .Date) }}
+          · Updated {{ .Lastmod.Format "Jan 2, 2006" }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="nested-copy-line-height lh-copy">
+      {{ .Content }}
+    </div>
+
+    <div class="mt5">
+      <a class="no-underline" href="/blog/">← Back to Blog</a>
+    </div>
+  </div>
+{{ end }}
