@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <div class="mw7 center ph3 pv4">
+    <h1 class="f2 mb3">{{ .Title }}</h1>
+    <p class="measure-wide lh-copy">{{ .Content }}</p>
+
+    <hr class="mv4">
+
+    <ul class="list pl0">
+      {{ range .Pages.ByDate.Reverse }}
+        <li class="mb3">
+          <a class="f4 no-underline" href="{{ .RelPermalink }}">
+            {{ .Title }}
+          </a>
+          <div class="f6 gray mt1">
+            {{ .Date.Format "Jan 2, 2006" }}
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
