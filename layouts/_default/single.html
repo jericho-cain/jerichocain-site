@@ -1,13 +1,19 @@
 {{ define "main" }}
   <div class="mw7 center ph3 pv4">
+
     <h1 class="f2">{{ .Title }}</h1>
 
     <div class="f6 gray mt2 mb4">
-      {{ .Date.Format "January 2, 2006" }}
+      Published {{ .Date.Format "January 2, 2006" }}
+      {{ if ne .Lastmod .Date }}
+        · Updated {{ .Lastmod.Format "January 2, 2006" }}
+      {{ end }}
     </div>
 
     <div class="nested-copy-line-height lh-copy">
       {{ .Content }}
     </div>
+
   </div>
 {{ end }}
+
