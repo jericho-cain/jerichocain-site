@@ -183,9 +183,19 @@ Requirements:
 - Do not introduce custom JavaScript.
 ```
 
-Before running this the first time, insert one image manually in D2L using the **Insert Image** tool. Then switch to HTML Source view and copy the exact path D2L generated. Replace `/content/enforced/COURSE-ID/` above with that exact prefix.
+Before running the prompt, ensure that all figures have been uploaded and that you have identified the correct D2L image path prefix as described in Step 2.
 
-This ensures ChatGPT generates image paths that D2L will actually serve.
+In your ChatGPT prompt, specify the exact prefix that D2L generated (for example):
+
+```
+/content/enforced/COURSE-ID/
+```
+
+and instruct ChatGPT to append figure filenames exactly as they appear in the LaTeX source.
+
+Do not assume relative paths. Use the canonical D2L prefix obtained earlier.
+
+This ensures the generated HTML will load images correctly without additional manual relinking.
 
 Now paste the LaTeX snippet beneath that instruction.
 
