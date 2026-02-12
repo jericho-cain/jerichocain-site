@@ -111,42 +111,18 @@ img[alt="Jericho Cain"] {
   margin: 0.6rem 0 0 0;
 }
 
-/* Center Ananke content column (single + list pages) */
-main article,
-main section,
-main .nested-copy-line-height,
-main .mw8,
-main .mw7,
-main .mw6,
-main .measure,
-main .measure-wide {
+/* Force the main content wrapper to truly center */
+main .nested-copy-line-height {
+  max-width: 950px !important;
+  width: 100% !important;
+}
+
+/* Hard-center any direct child wrapper inside main */
+main > div,
+main > section,
+main > article {
   margin-left: auto !important;
   margin-right: auto !important;
-}
-
-/* Ensure the main article can expand and is not stuck left */
-main article {
-  width: 100% !important;
   max-width: 950px !important;
+  width: 100% !important;
 }
-
-/* Ananke often wraps content in a flex row on large screens; center that row */
-main .flex-l,
-main .flex-ns,
-main .flex {
-  justify-content: center !important;
-}
-
-/* If the wrapper is artificially limiting width, let it expand */
-main .w-100 {
-  max-width: 950px;
-}
-
-
-
-
-
-
-
-
-
