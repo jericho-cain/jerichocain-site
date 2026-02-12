@@ -121,6 +121,15 @@ main > * {
   max-width: 950px;
 }
 
+main .measure,
+main .measure-wide,
+main .mw8,
+main .mw7,
+main .mw6 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 
