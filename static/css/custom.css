@@ -71,5 +71,54 @@ img[alt="Jericho Cain"] {
   border: 1px solid #ddd;
 }
 
+.blog-wrap{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+}
+
+.blog-header h1{
+  margin-bottom: 0.5rem;
+}
+
+.blog-intro{
+  margin: 0.5rem 0 1.5rem 0;
+}
+
+.blog-list{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.blog-item{
+  padding: 1rem 0;
+  border-top: 1px solid #e6e6e6;
+}
+
+.blog-link{
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+.blog-meta{
+  font-size: 0.95rem;
+  opacity: 0.8;
+  margin-top: 0.25rem;
+}
+
+.blog-summary{
+  margin: 0.6rem 0 0 0;
+}
+
+/* Center main content column */
+.measure-wide,
+.measure {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+
+
 
 
