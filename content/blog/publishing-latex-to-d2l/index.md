@@ -2,6 +2,9 @@
 title = 'Publishing Latex to D2L'
 draft = false
 +++
+
+![standards](standards.png)
+
 ## Introduction
 
 <div class ="lead">
