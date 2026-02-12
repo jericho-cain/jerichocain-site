@@ -45,6 +45,7 @@ At this stage, no HTML has been written and no LaTeX has been converted. The goa
 
 ![D2L folder structure showing Slides, Notes, and assets](structure.png)
 
+---
 
 ## Step 3 — Create a Lecture Notes Page and Extract the Default HTML
 
@@ -91,8 +92,6 @@ The next step is to move to ChatGPT and use this skeleton as the base into which
 
 ![What the html source view looks like in D2L](html_source.png)
 
-
-Here is the corrected and simplified version of Step 4, aligned with how D2L actually behaves.
 
 ---
 
@@ -202,6 +201,7 @@ This approach avoids relying on relative paths, which D2L may rewrite unpredicta
 
 ![What the final latex to D2L notes look like](notes_final.png)
 
+---
 
 ### Aside: If the LaTeX snippet is a Beamer slide (projector formatting)
 
@@ -274,6 +274,7 @@ Finally, instruct ChatGPT to insert a nav block like:
 
 ![What the final beamer to D2L slides look like](slides_final.png)
 
+---
 
 ## A Note on Figure References and Cross-Referencing
 
@@ -296,6 +297,8 @@ In practice, this means light manual editing may be required:
 For lecture notes and slides, this is typically minimal and manageable. However, this workflow is not intended to reproduce a publication-grade LaTeX document with full cross-referencing and citation management.
 
 The goal is instructional clarity inside the LMS — not full LaTeX feature parity.
+
+---
 
 ## Conclusion
 
