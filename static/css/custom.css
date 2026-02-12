@@ -111,12 +111,16 @@ img[alt="Jericho Cain"] {
   margin: 0.6rem 0 0 0;
 }
 
-/* Center main content column */
-.measure-wide,
-.measure {
-    margin-left: auto !important;
-    margin-right: auto !important;
+main {
+  display: flex;
+  justify-content: center;
 }
+
+main > * {
+  max-width: 900px;
+  width: 100%;
+}
+
 
 
 
