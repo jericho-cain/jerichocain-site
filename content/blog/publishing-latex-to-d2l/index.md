@@ -16,8 +16,6 @@ Rewriting LaTeX material manually in HTML is unrealistic for anyone who maintain
 This post outlines a reproducible workflow for converting LaTeX lecture notes and Beamer slides into HTML pages suitable for D2L. The method preserves mathematical notation using MathJax, maintains figure filenames and directory structure, and separates formatting concerns between lecture notes and projector-ready slides. The workflow is intentionally simple and can be extended or automated.
 </div>
 
-Here is a clean, professional version of **Step 1** for the manual workflow post:
-
 ---
 
 ## Step 1 — Create a Structured Content Area in D2L
