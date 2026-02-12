@@ -20,13 +20,13 @@ This post outlines a reproducible workflow for converting LaTeX lecture notes an
 
 ## Step 1 — Create a Structured Content Area in D2L
 
-Before converting any LaTeX content, establish a predictable folder structure inside D2L. This prevents broken links, keeps figure paths stable, and makes the workflow repeatable.
+Before converting any LaTeX content, establish a predictable folder structure inside D2L. This prevents broken links and makes the workflow repeatable.
 
 Navigate to:
 
 **Content → Manage Files**
 
-Within the appropriate course module (e.g., *Ch18*), create three folders:
+Within the appropriate course module (e.g., *Ch18*), create two folders:
 
 ```
 Ch18/
@@ -45,6 +45,57 @@ All figures should be uploaded to D2L.
 At this stage, no HTML has been written and no LaTeX has been converted. The goal is simply to establish a clean, predictable structure that supports the rest of the workflow.
 
 ![D2L folder structure showing Slides, Notes, and assets](structure.png)
+
+---
+
+## Step 2 — Upload and Normalize Image Paths
+
+Before converting any LaTeX content, upload all required figures into D2L.
+
+Navigate to:
+
+**Content → Manage Files**
+
+Inside the module folder created in Step 1 (e.g., `Ch18/`), upload all images used by the lecture notes or slides.
+
+It is important to upload the images *before* generating HTML with ChatGPT. D2L does not reliably preserve relative directory structures. Instead, it stores files in a managed location and rewrites image paths automatically.
+
+To determine the correct path format:
+
+1. Create a temporary content page.
+2. Use **Insert Image** to add one of the uploaded figures.
+3. Switch to **HTML Source view**.
+4. Copy the exact `src` path that D2L generates.
+
+It will look something like:
+
+```
+/content/enforced/COURSE-ID/Plate.png
+```
+
+Use that exact path prefix in your ChatGPT prompt.
+
+Do not assume relative paths such as:
+
+```
+../assets/Plate.png
+```
+
+D2L may rewrite or reject them.
+
+From this point forward:
+
+* Preserve figure filenames exactly as they appear in your LaTeX source.
+* Use the D2L-generated prefix for all images.
+* Keep filenames consistent between your LaTeX repository and the LMS.
+
+This ensures:
+
+* No broken image links
+* No manual relinking later
+* A repeatable workflow
+
+Once image paths are standardized, you are ready to convert LaTeX content into HTML.
 
 ---
 
@@ -218,7 +269,7 @@ Add the following requirements:
 * Preserve the D2L HTML skeleton and do not introduce custom JavaScript.
 * Use the same canonical D2L image path prefix discovered in Step 4 (copy from D2L once, then reuse).
 
-You can paste an example “style block” for ChatGPT to follow (this is the one I used):
+Here's a working style block you can reuse for your chat gpt prompt:
 
 ```html
 <style>
@@ -307,7 +358,7 @@ This workflow is not a perfect replacement for LaTeX inside an LMS. It does not 
 
 However, it offers a practical alternative to abandoning LaTeX entirely. Instead of rewriting material manually or uploading static PDFs, instructors can preserve LaTeX as the source of truth while publishing structured, accessible HTML inside D2L. Mathematical notation renders through MathJax, figures are preserved, and content integrates directly into the course environment.
 
-The process is intentionally manual in this post. But there is no fundamental reason it must remain so. With access to a documented API, LMS platforms such as D2L could support automated ingestion of structured LaTeX directories — converting lecture notes and slides into accessible HTML while preserving directory structure and assets. Even a modest API for uploading and organizing content programmatically would significantly streamline this workflow.
+The process is intentionally manual in this post. But there is no fundamental reason it must remain so. With access to a documented API, LMS platforms such as D2L could support automated ingestion of structured LaTeX directories — converting lecture notes and slides into accessible HTML while preserving directory structure and assets. Even a modest API for uploading and organizing content programmatically would significantly streamline this workflow. 
 
 Until such tools are available, this approach provides a reproducible bridge between modern LaTeX-based authoring and LMS delivery systems.
 
