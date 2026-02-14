@@ -38,7 +38,7 @@ The course is algebra-based and designed for students pursuing science-related m
 <div class="muted">Chapter decks and in-class derivations.</div>
 
 <ul class="resource-list">
-<li><span class="resource-num">S01</span><span><a href="/files/lecture_slides/physics_203/lecture_18.pdf">Chapter 18 — Electric Forces and Fields</a></span></li>
+<li><span class="resource-num">S01</span><span><a href="/files/teaching/phy203/slides/electrostatics_slides.pdf">Electrostatics</a></span></li>
 <li><span class="resource-num">S02</span><span><em>coming soon</em></span></li>
 </ul>
 
@@ -50,7 +50,7 @@ The course is algebra-based and designed for students pursuing science-related m
 <div class="muted">Printable PDFs that mirror the lecture narrative.</div>
 
 <ul class="resource-list">
-<li><span class="resource-num">N01</span><span><em>coming soon</em></span></li>
+<li><span class="resource-num">N01</span><span><a href="/files/teaching/phy203/notes/electrostatics_notes.pdf">Electrostatics</a></span></li>
 </ul>
 
 </section>
