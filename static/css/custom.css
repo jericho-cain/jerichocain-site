@@ -26,16 +26,98 @@ img[alt="Jericho Cain"] {
 .gear-item { padding: 1rem; border-left: 4px solid #888; background: #f9f9f9; }
 .gear-item h3 { margin: 0 0 .5rem; font-size: 1.15rem; }
 
+/* Base list reset for teaching page */
 .teaching ul {
-  list-style: none;       /* remove bullets */
+  list-style: none;
   padding: 0;
   margin: 0;
-  text-align: center;     /* center list text */
+}
+
+/* If you truly want centered lists sometimes, use a class */
+.teaching .list-center {
+  text-align: center;
 }
 
 .teaching li {
-  margin: 0.5rem 0;       /* spacing between items */
+  margin: 0.5rem 0;
 }
+
+.teaching .philosophy {
+  max-width: 62ch;     /* nice reading width */
+  margin: 0 auto 2.5rem auto;
+  text-align: left;
+  line-height: 1.65;
+}
+
+.teaching .philosophy h2 {
+  text-align: center;  /* header can stay centered */
+  margin-bottom: 1rem;
+}
+
+.teaching .course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  max-width: 1000px;
+  margin: 0 auto 2.5rem auto;
+}
+
+.teaching .course-card {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  background: #fff;
+}
+
+.teaching .course-card h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.05rem;
+}
+
+.teaching .course-meta {
+  opacity: 0.75;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+}
+
+.teaching .course-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.teaching .btn {
+  display: inline-block;
+  padding: 0.4rem 0.65rem;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.18);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.teaching .btn:hover {
+  border-color: rgba(0,0,0,0.35);
+}
+
+.teaching .taught-list {
+  columns: 2;
+  column-gap: 2rem;
+  max-width: 700px;
+  margin: 0 auto 2.5rem auto;
+  text-align: left;
+}
+
+@media (max-width: 640px) {
+  .teaching .taught-list { columns: 1; }
+}
+
+.teaching .taught-list li {
+  break-inside: avoid;
+  margin: 0.35rem 0;
+}
+
+
+
 
 .schedule table {
   border-collapse: collapse;
