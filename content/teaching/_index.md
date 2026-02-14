@@ -11,15 +11,16 @@ title = 'Teaching'
 <div class="course-grid">
 
 <div class="course-card">
-### PHY 201 — General Physics I
+<h3>PHY 201 — General Physics I</h3>
 <div class="course-meta">Fall</div>
 <div class="course-actions">
 <a class="btn" href="/teaching/physics201/">Course Page</a>
 </div>
 </div>
 
+
 <div class="course-card">
-### PHY 202 — General Physics II
+<h3>PHY 202 — General Physics II</h3>
 <div class="course-meta">Winter</div>
 <div class="course-actions">
 <a class="btn" href="/teaching/physics202/">Course Page</a>
@@ -27,7 +28,7 @@ title = 'Teaching'
 </div>
 
 <div class="course-card">
-### PHY 203 — General Physics III
+<h3>PHY 203 — General Physics III</h3>
 <div class="course-meta">Spring</div>
 <div class="course-actions">
 <a class="btn" href="/teaching/physics203/">Course Page</a>
