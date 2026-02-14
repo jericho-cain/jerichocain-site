@@ -18,11 +18,11 @@ By presenting introductory physics as the beginning of a larger intellectual fra
 
 ## Courses
 
-- **PHY 201 - General Physics I** [Fall 2026](/teaching/physics202/)
+- **PHY 201 - General Physics I** [Fall](/teaching/physics202/)
 
-- **PHY 202 — General Physics II** [Winter 2026](/teaching/physics202/)
+- **PHY 202 — General Physics II** [Winter](/teaching/physics202/)
 
-- **PHY 203 - General Physics III** [Spring 2026](/teaching/physics203/)
+- **PHY 203 - General Physics III** [Spring](/teaching/physics203/)
 
 
 ## Courses I’ve taught include:
@@ -32,7 +32,6 @@ By presenting introductory physics as the beginning of a larger intellectual fra
 - Calculus-based Physics
 - Astronomy
 
-## Sample Lectures:
 
 ## Graduate Level Lecture Notes Sample
 
