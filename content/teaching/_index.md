@@ -9,22 +9,20 @@ title = 'Teaching'
 
 ## Teaching Philosophy
 
-I approach teaching physics as a process of helping students see the subject as a coherent, connected narrative, rather than a collection of disconnected formulas. Introductory topics that are often perceived as “simple” or “boring” — kinematics, oscillations, conservation laws — are presented as the foundations of much deeper ideas that reappear throughout physics, from electromagnetism to quantum mechanics and general relativity.
+I approach teaching physics as the task of helping students see the subject as a connected body of ideas rather than a collection of formulas to memorize. Topics that can initially seem routine -- such as kinematics, oscillations, and conservation laws -- are treated as foundational principles that reappear throughout the discipline.
 
-A central goal of my teaching is to make these connections explicit, so that students understand not only how to solve problems, but why the underlying concepts matter and where they lead. I emphasize physical intuition, dimensional reasoning, and the translation between mathematical formalism and physical meaning, helping students develop confidence in moving between abstract models and real phenomena.
+My goal is for students to understand not only how to solve problems, but what the underlying concepts mean and why they matter. I emphasize physical reasoning, dimensional analysis, and the interplay between mathematics and physical interpretation so that students gain confidence moving between models and real phenomena.
 
-By framing introductory physics as the first chapter of a much larger story, I aim to motivate students to engage more deeply with the material and to recognize that even the most elementary concepts carry the seeds of advanced physics.
+By presenting introductory physics as the beginning of a larger intellectual framework, I aim to foster deeper engagement and long-term understanding.
 
 
-## Current Courses
+## Courses
+
+- **PHY 201 - General Physics I** [Fall 2026](/teaching/physics202/)
 
 - **PHY 202 — General Physics II** [Winter 2026](/teaching/physics202/)
 
-## Upcoming Courses
-
 - **PHY 203 - General Physics III** [Spring 2026](/teaching/physics203/)
- 
-- **PHY 201 - General Physics I** [Fall 2026]()
 
 
 ## Courses I’ve taught include:
