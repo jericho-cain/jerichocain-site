@@ -3,17 +3,11 @@ title: "PHY 201 General Physics"
 draft: false
 ---
 
-# Fall 2025
-
-*Instructor: Jericho Cain, Ph.D.*
+# Fall
 
 Welcome to the course page for **PHY 201**. This page contains the syllabus, lecture materials, and assignments.
 
----
 
-## Syllabus
-
-[Download PDF](/files/syllabi/PHY_201_40113_Cain_J.pdf)
 
 
 ---
@@ -39,20 +33,6 @@ Students will gain both conceptual understanding and practical experience throug
 
 <div class="schedule">
 
-| Date       | Chapter | Topic / Lab / Due |
-|------------|---------|-------------------|
-| 09/27/25   | 1 | Introduction & Mathematical Concepts <br> **Lab 1:** Measurement, Graphing, Prediction |
-| 10/04/25   | 2 | Kinematics in 1D <br> **Lab 2:** Modern Galileo <br> HW 1 Due, Lab 1 Due |
-| 10/11/25   | 3 | Kinematics in 2D; Review (Ch. 1–3) <br> **Lab 3:** Projectile Motion <br> HW 2 Due, Lab 2 Due |
-| 10/18/25   | 4 | Forces & Newton’s Laws <br> **Exam 1** (Ch. 1–3) <br> HW 3 Due, Lab 3 Due |
-| 10/25/25   | 5 | Circular Motion <br> **Lab 4:** Newton’s 2nd Law <br> HW 4 Due |
-| 11/01/25   | 6 | Work & Energy <br> **Lab 5:** Equilibrium of Forces <br> Lab 4 Due |
-| 11/08/25   | 6 (cont.) | Review (Ch. 4–6) <br> **Lab 6:** Friction <br> HW 5 Due, Lab 5 Due |
-| 11/15/25   | 7 | Impulse-Momentum <br> **Exam 2** (Ch. 4–6) <br> HW 6 Due, Lab 6 Due |
-| 11/22/25   | 8 | Rotational Kinematics <br> **Lab 7:** Work & Kinetic Energy |
-| 11/29/25   | 9 | Rotational Dynamics <br> **Lab 8:** Collisions <br> HW 7 Due, Lab 7 Due |
-| 12/06/25   | 9 (cont.) | Review (Ch. 7–9) <br> **Lab 9:** Torque <br> HW 8 Due, Lab 8 Due |
-| 12/13/25   | Final Exam | **Final Exam** <br> HW 9 Due, Lab 9 Due |
 
 </div>
 
@@ -61,31 +41,13 @@ Students will gain both conceptual understanding and practical experience throug
 
 ## Lecture Slides
 
-- [Course Introduction and Math Review](/files/lecture_slides/physics_201/lecture_1.pdf)
-- [Chapter Two: Kinematics in One Dimension](/files/lecture_slides/physics_201/lecture_2.pdf)
-- [Chapter Three: Kinematics in Two Dimensions](/files/lecture_slides/physics_201/lecture_3.pdf)
-- [Chapter Four: Forces and Newton's 2nd Law](/files/lecture_slides/physics_201/lecture_4.pdf)
-- [Chapter Five: Dynamics of Circular Motion](/files/lecture_slides/physics_201/lecture_5.pdf)
-- [Chapter Six: Work and Energy](/files/lecture_slides/physics_201/lecture_6.pdf)
-- [Chapter Seven: Impulse and Momentum](/files/lecture_slides/physics_201/lecture_7.pdf)
-- [Chapter Eight: Rotational Kinematics](/files/lecture_slides/physics_201/lecture_8.pdf)
-- [Chapter Nine: Rotational Dynamics](/files/lecture_slides/physics_201/lecture_9.pdf) *coming soon*
+
 
 </div>
 
 <div class="teaching">
 
 ## Homework Assignments
-
-- [Homework 1: Math and Vectors](/files/hw/physics_201/hw1.pdf)
-- [Homework 2: Kinematics in One Dimension](/files/hw/physics_201/hw2.pdf)  
-- [Homework 3: Kinematics in Two Dimension](/files/hw/physics_201/hw3.pdf)
-- [Homework 4: Forces and Newton's 2nd Law](/files/hw/physics_201/hw4.pdf)
-- [Homework 5: Dynamics of Circular Motion](/files/hw/physics_201/hw5.pdf)
-- [Homework 6: Work and Energy](/files/hw/physics_201/hw6.pdf)
-- [Homework 7: Impulse and Momentum](/files/hw/physics_201/hw7.pdf)
-- [Homework 8: Rotational Kinematics](/files/hw/physics_201/hw8.pdf)
-- [Homework 9: Rotational Dynamics](/files/hw/physics_201/hw9.pdf)
 
 </div>
 ---
