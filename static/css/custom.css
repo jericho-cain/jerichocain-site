@@ -116,6 +116,93 @@ img[alt="Jericho Cain"] {
   margin: 0.35rem 0;
 }
 
+/* ===== Course pages ===== */
+.course {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.course .course-lede {
+  max-width: 70ch;
+  margin: 0 auto 1.5rem auto;
+  text-align: left;
+  line-height: 1.65;
+}
+
+.course .quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+  margin: 1rem 0 2rem 0;
+}
+
+.course .pill {
+  display: inline-block;
+  padding: 0.45rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,0.18);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.course .pill:hover {
+  border-color: rgba(0,0,0,0.35);
+}
+
+.course .resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.course .resource-card {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  background: #fff;
+}
+
+.course .resource-card h2 {
+  margin: 0 0 0.75rem 0;
+  text-align: left;
+  font-size: 1.15rem;
+}
+
+.course .resource-card .muted {
+  opacity: 0.75;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+}
+
+.course .resource-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.course .resource-list li {
+  margin: 0.5rem 0;
+  display: grid;
+  grid-template-columns: 3.2rem 1fr;
+  gap: 0.7rem;
+  align-items: baseline;
+}
+
+.course .resource-num {
+  opacity: 0.7;
+  font-variant-numeric: tabular-nums;
+}
+
+.course details {
+  margin-top: 0.75rem;
+}
+
+.course summary {
+  cursor: pointer;
+  opacity: 0.85;
+}
 
 
 
