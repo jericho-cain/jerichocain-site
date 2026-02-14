@@ -37,8 +37,10 @@ theme = "ananke"
 
 
 [markup]
-  [markup.goldmark.renderer]
-    unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [params]
   custom_css = ["css/custom.css","css/gallery.css"]
