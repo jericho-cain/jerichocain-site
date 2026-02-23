@@ -20,7 +20,17 @@ See the full list here: [/publications/](/publications/)
 ---
 
 ## Latest Projects
+
+[Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)
+
+[Preprint](https://arxiv.org/abs/2602.17725)
+
+Environmental effects such as hierarchical triple motion can introduce cumulative phase modulation in gravitational-wave signals through time-dependent line-of-sight acceleration. Whether such smooth time-warp distortions are observable depends jointly on deformation strength and signal-to-noise ratio (SNR), yet this relationship has not been quantified in a template-free framework. We study the detectability of these distortions using time-frequency representations derived from the continuous wavelet transform. Instead of reconstruction error alone, we examine trajectory-based statistics, in particular the evolution of the power-weighted frequency centroid. We find that environmental modulation can be detected using a single-sample statistic referenced to an isolated-binary distribution, without requiring matched templates. Across a grid of cumulative phase distortions and SNR, detection performance collapses onto a single scaling parameter defined as the product of phase distortion and SNR. The ROC-AUC follows a sigmoid transition in this parameter. Moderate distortions are detectable at low SNR, whereas smaller distortions require higher SNR. These results indicate that smooth environmental phase modulation is not generically absorbed by intrinsic waveform variability; instead, detectability is governed by a simple scaling between cumulative phase distortion and signal strength. 
+
+
 [Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data](https://github.com/jericho-cain/cwt-manifold-grav-wav).
+
+[Preprint](https://arxiv.org/abs/2511.12845)
 
 The Laser Interferometer Space Antenna (LISA) will operate in a fundamentally different data-analysis regime than ground-based detectors such as LIGO. Rather than rare signals buried in instrumental noise, LISA observations are expected to be dominated by a dense superposition of unresolved Galactic binaries, forming a confusion-limited background. A central challenge is identifying resolvable sources that deviate meaningfully from this background.
 
@@ -31,7 +41,9 @@ Tests on synthetic LISA datasets with injected massive black hole binaries, extr
 Manuscript submitted to Classical and Quantum Gravity.
 
 
-[Gravitational Wave Hunting with CWT-LSTM Autoencoder in LIGO Data](https://github.com/jericho-cain/cwt-lstm-ae-grav-wav). 
+[Template-Free Gravitational Wave Detection with CWT-LSTM Autoencoders: A Case Study of Run-Dependent Calibration Effects in LIGO Data](https://github.com/jericho-cain/cwt-lstm-ae-grav-wav). 
+
+[Jericho Cain 2026 Class. Quantum Grav. 43 035019](https://iopscience.iop.org/article/10.1088/1361-6382/ae415e)
 
 Gravitational-wave searches traditionally rely on matched filtering against large banks of theoretical waveforms, which can be computationally expensive and inherently biased toward known signal morphologies. In this project, I develop a template-free, unsupervised detection framework that combines physically motivated time–frequency representations with sequence-based machine learning.
 
@@ -41,7 +53,7 @@ During development, I identified a previously underappreciated issue: when train
 
 Applied to O4 LIGO data, the resulting pipeline achieves high-efficiency, high-purity detection using a purely unsupervised approach, demonstrating that physics-informed anomaly detection can perform competitively with supervised methods while remaining sensitive to signals with unexpected or poorly modeled morphologies. This work highlights both the promise of template-free methods for discovery-oriented searches and the importance of careful treatment of non-stationarity in multi-epoch gravitational-wave datasets.
 
-Accepted for publication in Classical and Quantum Gravity.
+
 
 ---
 [← Back to Home](/)
