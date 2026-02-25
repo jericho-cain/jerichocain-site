@@ -21,6 +21,12 @@ See the full list here: [/publications/](/publications/)
 
 ## Latest Projects
 
+[Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection](https://github.com/jericho-cain/lisa-cwt-oneclass-likelihood)
+
+[Preprint](https://arxiv.org/abs/2602.20212)
+
+We study one-class scoring for resolvable-source detection in confusion-limited LISA time-series data represented as continuous-wavelet-transform (CWT) scalograms. With data generation and preprocessing held fixed, we benchmark geometry-style scoring against likelihood-style latent-density scoring, while also evaluating morphology-augmented and contrastive variants. Geometry-only and geometry+morphology methods provide modest gains over the reconstruction baseline, and contrastive variants do not show stable improvement. Likelihood scoring on AE latents is consistently stronger: across three seeds, latent-only likelihood reaches ROC-AUC 0.8555±0.0181 and PR-AUC 0.9219±0.0118, versus ROC-AUC 0.7663±0.0450 and PR-AUC 0.8667±0.0255 for AE+manifold. These results indicate that explicit latent density modeling can outperform local off-manifold distance in this confusion-limited regime. We provide seed-based comparisons, unified ROC/PR visual summaries, and reproducible experimental artifacts to support follow-on work in LISA anomaly detection. 
+
 [Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)
 
 [Preprint](https://arxiv.org/abs/2602.17725)
