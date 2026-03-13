@@ -8,6 +8,7 @@ _This list is generated from `static/pubs.bib`._
 
 ## 2026
 
+- **Jericho Cain**. **[Gauge Freedom and Metric Dependence in Neural Representation Spaces](https://arxiv.org/abs/2603.06774)**, 2026 · [arXiv](https://arxiv.org/abs/2603.06774)
 - **Jericho Cain**. **[Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection](https://arxiv.org/abs/2602.20212)**, 2026 · [arXiv](https://arxiv.org/abs/2602.20212)
 - **Jericho Cain**, Hayden Beadles. **[Mask-Based Window-Level Insider Threat Detection for Campaign Discovery](https://arxiv.org/abs/2602.11019)**, 2026 · [arXiv](https://arxiv.org/abs/2602.11019)
 - **Jericho Cain**. **[Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)**, 2026 · [arXiv](https://arxiv.org/abs/2602.17725)
