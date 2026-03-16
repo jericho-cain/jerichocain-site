@@ -8,10 +8,10 @@ _This list is generated from `static/pubs.bib`._
 
 ## 2026
 
+- **Jericho Cain**. **[Detectability Scaling Laws for Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)**, 2026 · [arXiv](https://arxiv.org/abs/2602.17725)
 - **Jericho Cain**. **[Gauge Freedom and Metric Dependence in Neural Representation Spaces](https://arxiv.org/abs/2603.06774)**, 2026 · [arXiv](https://arxiv.org/abs/2603.06774)
 - **Jericho Cain**. **[Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection](https://arxiv.org/abs/2602.20212)**, 2026 · [arXiv](https://arxiv.org/abs/2602.20212)
 - **Jericho Cain**, Hayden Beadles. **[Mask-Based Window-Level Insider Threat Detection for Campaign Discovery](https://arxiv.org/abs/2602.11019)**, 2026 · [arXiv](https://arxiv.org/abs/2602.11019)
-- **Jericho Cain**. **[Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)**, 2026 · [arXiv](https://arxiv.org/abs/2602.17725)
 - Jericho E Cain. **[Template-Free Gravitational Wave Detection with CWT-LSTM Autoencoders: A Case Study of Run-Dependent Calibration Effects in LIGO Data](http://iopscience.iop.org/article/10.1088/1361-6382/ae415e)**. *Classical and Quantum Gravity*, 2026 · [Link](http://iopscience.iop.org/article/10.1088/1361-6382/ae415e)
 
 ## 2025

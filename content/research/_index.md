@@ -21,13 +21,19 @@ See the full list here: [/publications/](/publications/)
 
 ## Latest Projects
 
+[Gauge Freedom and Metric Dependence in Neural Representation Spaces](https://github.com/jericho-cain/neural-representation-gauge)
+
+[Preprint](https://arxiv.org/abs/2603.06774)
+
+Neural network representations are often analyzed as vectors in a fixed Euclidean space. However, their coordinates are not uniquely defined. If a hidden representation is transformed by an invertible linear map, the network function can be preserved by applying the inverse transformation to downstream weights. Representations are therefore defined only up to invertible linear transformations. We study neural representation spaces from this geometric viewpoint and treat them as vector spaces with a gauge freedom under the general linear group. Within this framework, commonly used similarity measures such as cosine similarity become metric-dependent quantities whose values can change under coordinate transformations that leave the model function unchanged. This provides a common interpretation for several observations in the literature, including cosine-similarity instability, anisotropy in embedding spaces, and the appeal of representation comparison methods such as SVCCA and CKA. Experiments on multilayer perceptrons and convolutional networks confirm that inserting invertible transformations into trained models can substantially distort cosine similarity and nearest-neighbor structure while leaving predictions unchanged. These results indicate that analysis of neural representations should focus either on quantities that are invariant under this gauge freedom or on explicitly chosen canonica coordinates. 
+
 [Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection](https://github.com/jericho-cain/lisa-cwt-oneclass-likelihood)
 
 [Preprint](https://arxiv.org/abs/2602.20212)
 
 We study one-class scoring for resolvable-source detection in confusion-limited LISA time-series data represented as continuous-wavelet-transform (CWT) scalograms. With data generation and preprocessing held fixed, we benchmark geometry-style scoring against likelihood-style latent-density scoring, while also evaluating morphology-augmented and contrastive variants. Geometry-only and geometry+morphology methods provide modest gains over the reconstruction baseline, and contrastive variants do not show stable improvement. Likelihood scoring on AE latents is consistently stronger: across three seeds, latent-only likelihood reaches ROC-AUC 0.8555±0.0181 and PR-AUC 0.9219±0.0118, versus ROC-AUC 0.7663±0.0450 and PR-AUC 0.8667±0.0255 for AE+manifold. These results indicate that explicit latent density modeling can outperform local off-manifold distance in this confusion-limited regime. We provide seed-based comparisons, unified ROC/PR visual summaries, and reproducible experimental artifacts to support follow-on work in LISA anomaly detection. 
 
-[Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)
+[Detectability Scaling Laws for Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)
 
 [Preprint](https://arxiv.org/abs/2602.17725)
 
