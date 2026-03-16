@@ -430,6 +430,164 @@ img[alt="Jericho Cain"] {
   }
 }
 
+/* ===== Publications page ===== */
+.publications {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.pub-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(240px, 0.8fr);
+  gap: 1.5rem;
+  align-items: stretch;
+  margin-bottom: 2.5rem;
+}
+
+.pub-kicker {
+  margin: 0 0 0.75rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #7c2d12;
+}
+
+.pub-lede {
+  margin: 0 0 0.5rem 0;
+  max-width: 58ch;
+  font-size: 1.12rem;
+  line-height: 1.75;
+}
+
+.pub-note {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.68);
+}
+
+.pub-summary {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.9rem;
+}
+
+.pub-stat,
+.pub-year-heading,
+.pub-card {
+  background: #fffdfa;
+  border: 1px solid rgba(76, 58, 43, 0.12);
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(76, 58, 43, 0.06);
+}
+
+.pub-stat {
+  padding: 1rem 1.1rem;
+}
+
+.pub-stat strong {
+  display: block;
+  font-size: 1.5rem;
+  line-height: 1.1;
+}
+
+.pub-stat span {
+  display: block;
+  margin-top: 0.25rem;
+  color: rgba(0, 0, 0, 0.68);
+}
+
+.pub-year-block {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.pub-year-heading {
+  position: sticky;
+  top: 1rem;
+  padding: 1rem 0.85rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #5f442d;
+}
+
+.pub-year-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.pub-card {
+  padding: 1.1rem 1.2rem;
+}
+
+.pub-card h3 {
+  margin: 0 0 0.45rem 0;
+  font-size: 1.12rem;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.pub-card h3 a,
+.pub-links a,
+.publications-footer a {
+  text-decoration: none;
+}
+
+.pub-card h3 a:hover,
+.pub-links a:hover,
+.publications-footer a:hover {
+  text-decoration: underline;
+}
+
+.pub-authors,
+.pub-meta,
+.pub-links {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.pub-authors {
+  margin-bottom: 0.35rem;
+}
+
+.pub-meta {
+  color: rgba(0, 0, 0, 0.72);
+  font-size: 0.96rem;
+}
+
+.pub-sep {
+  margin: 0 0.55rem;
+  color: rgba(0, 0, 0, 0.38);
+}
+
+.pub-links {
+  margin-top: 0.45rem;
+  font-size: 0.95rem;
+}
+
+.pub-year {
+  font-weight: 600;
+}
+
+.publications-footer {
+  margin-top: 2rem;
+}
+
+@media (max-width: 960px) {
+  .pub-hero,
+  .pub-year-block {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-year-heading {
+    position: static;
+    text-align: left;
+  }
+}
+
 .blog-wrap{
   max-width: 900px;
   margin: 0 auto;

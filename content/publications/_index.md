@@ -3,62 +3,211 @@ title = "Publications"
 draft = false
 +++
 
-_This list is generated from `static/pubs.bib`._
+<div class="publications">
 
+<section class="pub-hero">
+  <div>
+    <p class="pub-kicker">Research output</p>
+    <p class="pub-lede">A chronological record of journal articles, conference papers, preprints, and related work.</p>
+    <p class="pub-note">This list is generated from <code>static/pubs.bib</code>.</p>
+  </div>
+  <div class="pub-summary">
+    <div class="pub-stat"><strong>21</strong><span>publications</span></div>
+    <div class="pub-stat"><strong>2008-2026</strong><span>coverage</span></div>
+  </div>
+</section>
 
-## 2026
+<section class="pub-year-block">
+  <div class="pub-year-heading">2026</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2602.17725">Detectability Scaling Laws for Environmental Phase Modulation in Gravitational-Wave Signals</a></h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span class="pub-year">2026</span></p>
+  <p class="pub-links"><a href="https://arxiv.org/abs/2602.17725">arXiv</a></p>
+</article>
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2603.06774">Gauge Freedom and Metric Dependence in Neural Representation Spaces</a></h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span class="pub-year">2026</span></p>
+  <p class="pub-links"><a href="https://arxiv.org/abs/2603.06774">arXiv</a></p>
+</article>
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2602.20212">Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection</a></h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span class="pub-year">2026</span></p>
+  <p class="pub-links"><a href="https://arxiv.org/abs/2602.20212">arXiv</a></p>
+</article>
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2602.11019">Mask-Based Window-Level Insider Threat Detection for Campaign Discovery</a></h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong>, Hayden Beadles</p>
+  <p class="pub-meta"><span class="pub-year">2026</span></p>
+  <p class="pub-links"><a href="https://arxiv.org/abs/2602.11019">arXiv</a></p>
+</article>
+<article class="pub-card">
+  <h3><a href="http://iopscience.iop.org/article/10.1088/1361-6382/ae415e">Template-Free Gravitational Wave Detection with CWT-LSTM Autoencoders: A Case Study of Run-Dependent Calibration Effects in LIGO Data</a></h3>
+  <p class="pub-authors">Jericho E Cain</p>
+  <p class="pub-meta"><span>Classical and Quantum Gravity</span><span class="pub-sep">•</span><span class="pub-year">2026</span></p>
+  <p class="pub-links"><a href="http://iopscience.iop.org/article/10.1088/1361-6382/ae415e">Link</a></p>
+</article>
+  </div>
+</section>
 
-- **Jericho Cain**. **[Detectability Scaling Laws for Environmental Phase Modulation in Gravitational-Wave Signals](https://arxiv.org/abs/2602.17725)**, 2026 · [arXiv](https://arxiv.org/abs/2602.17725)
-- **Jericho Cain**. **[Gauge Freedom and Metric Dependence in Neural Representation Spaces](https://arxiv.org/abs/2603.06774)**, 2026 · [arXiv](https://arxiv.org/abs/2603.06774)
-- **Jericho Cain**. **[Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection](https://arxiv.org/abs/2602.20212)**, 2026 · [arXiv](https://arxiv.org/abs/2602.20212)
-- **Jericho Cain**, Hayden Beadles. **[Mask-Based Window-Level Insider Threat Detection for Campaign Discovery](https://arxiv.org/abs/2602.11019)**, 2026 · [arXiv](https://arxiv.org/abs/2602.11019)
-- Jericho E Cain. **[Template-Free Gravitational Wave Detection with CWT-LSTM Autoencoders: A Case Study of Run-Dependent Calibration Effects in LIGO Data](http://iopscience.iop.org/article/10.1088/1361-6382/ae415e)**. *Classical and Quantum Gravity*, 2026 · [Link](http://iopscience.iop.org/article/10.1088/1361-6382/ae415e)
+<section class="pub-year-block">
+  <div class="pub-year-heading">2025</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2511.12845">Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data</a></h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span class="pub-year">2025</span></p>
+  <p class="pub-links"><a href="https://arxiv.org/abs/2511.12845">arXiv</a></p>
+</article>
+  </div>
+</section>
 
-## 2025
+<section class="pub-year-block">
+  <div class="pub-year-heading">2024</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2411.07314">Anomaly Detection in OKTA Logs using Autoencoders</a></h3>
+  <p class="pub-authors">Jericho E. Cain, Hayden Beadles, Karthik Venkatesan</p>
+  <p class="pub-meta"><span>CoRR, <strong>abs/2411.07314</strong></span><span class="pub-sep">•</span><span class="pub-year">2024</span></p>
+  <p class="pub-links"><a href="https://arxiv.org/abs/2411.07314">arXiv</a></p>
+</article>
+  </div>
+</section>
 
-- **Jericho Cain**. **[Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data](https://arxiv.org/abs/2511.12845)**, 2025 · [arXiv](https://arxiv.org/abs/2511.12845)
+<section class="pub-year-block">
+  <div class="pub-year-heading">2019</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3>Green's Function Extraction from Atmospheric Acoustic Propagation</h3>
+  <p class="pub-authors">Sandra L Collier, Max F Denis, John M Noble, Wc K Alberts, David A Ligon, Leng K Sim, Deryck D James, Christian G Reiff, Jericho E Cain</p>
+  <p class="pub-meta"><span class="pub-year">2019</span></p>
+</article>
+  </div>
+</section>
 
-## 2024
+<section class="pub-year-block">
+  <div class="pub-year-heading">2017</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://cug.org/proceedings/cug2017_proceedings/includes/files/pap155s2-file1.pdf">Precipitation Nowcasting: Leveraging Deep Recurrent Convolutional Neural Networks</a></h3>
+  <p class="pub-authors">Alexander Heye, Karthik Venkatesan, <strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span>Proceedings of the CUG 2017 Workshops, 1–8</span><span class="pub-sep">•</span><span class="pub-year">2017</span></p>
+  <p class="pub-links"><a href="https://cug.org/proceedings/cug2017_proceedings/includes/files/pap155s2-file1.pdf">Link</a></p>
+</article>
+  </div>
+</section>
 
-- Jericho E. Cain, Hayden Beadles, Karthik Venkatesan. **[Anomaly Detection in OKTA Logs using Autoencoders](https://arxiv.org/abs/2411.07314)**. *CoRR, **abs/2411.07314***, 2024 · [arXiv](https://arxiv.org/abs/2411.07314)
+<section class="pub-year-block">
+  <div class="pub-year-heading">2016</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://doi.org/10.1121/1.4959003">Cross-frequency coherence and pulse propagation in a turbulent atmosphere</a></h3>
+  <p class="pub-authors">Vladimir E Ostashev, D. Keith Wilson, Sandra L Collier, <strong>Jericho Cain</strong>, Sylvain Cheinet</p>
+  <p class="pub-meta"><span>Journal of the Acoustical Society of America, <strong>140</strong>, (1), 678</span><span class="pub-sep">•</span><span class="pub-year">2016</span></p>
+  <p class="pub-links"><a href="https://doi.org/10.1121/1.4959003">DOI</a></p>
+</article>
+<article class="pub-card">
+  <h3>Effects of turbulence on acoustic impulses propagating near the ground</h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span>Proc. French Acoustics Congress &amp; Conference on Vibrations, Shocks, and Noise</span><span class="pub-sep">•</span><span class="pub-year">2016</span></p>
+</article>
+<article class="pub-card">
+  <h3>Inverse methods for Green’s function retrieval</h3>
+  <p class="pub-authors">Sandra L Collier, Jericho E Cain, John M Noble, David A Ligon, WC Kirkpatrick Alberts, Leng Sim</p>
+  <p class="pub-meta"><span>Journal of the Acoustical Society of America, <strong>139</strong>, (4\_Supplement), 1985–1985</span><span class="pub-sep">•</span><span class="pub-year">2016</span></p>
+</article>
+  </div>
+</section>
 
-## 2019
+<section class="pub-year-block">
+  <div class="pub-year-heading">2015</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3>Green’s function retrieval for atmospheric acoustic propagation</h3>
+  <p class="pub-authors">Sandra L Collier, Jericho E Cain, John M Noble, WC Kirkpatrick Alberts, David A Ligon, Leng K Sim</p>
+  <p class="pub-meta"><span>The Journal of the Acoustical Society of America, <strong>138</strong>, (3\_Supplement), 1754–1754</span><span class="pub-sep">•</span><span class="pub-year">2015</span></p>
+</article>
+<article class="pub-card">
+  <h3>Signal coherence of broadband sound propagation through a refractive and turbulent atmosphere</h3>
+  <p class="pub-authors">Jericho E Cain, Sandra L Collier, Vladimir E Ostashev, David K Wilson</p>
+  <p class="pub-meta"><span>Journal of the Acoustical Society of America, <strong>137</strong>, (4\_Supplement), 2224–2224</span><span class="pub-sep">•</span><span class="pub-year">2015</span></p>
+</article>
+<article class="pub-card">
+  <h3><a href="https://doi.org/10.1121/2.0000062">Statistical moments of a wideband acoustic signal</a></h3>
+  <p class="pub-authors">Jericho E. Cain</p>
+  <p class="pub-meta"><span>Proceedings of Meetings on Acoustics, 045004</span><span class="pub-sep">•</span><span class="pub-year">2015</span></p>
+  <p class="pub-links"><a href="https://doi.org/10.1121/2.0000062">DOI</a></p>
+</article>
+  </div>
+</section>
 
-- Sandra L Collier, Max F Denis, John M Noble, Wc K Alberts, David A Ligon, Leng K Sim, Deryck D James, Christian G Reiff, Jericho E Cain. **Green's Function Extraction from Atmospheric Acoustic Propagation**, 2019
+<section class="pub-year-block">
+  <div class="pub-year-heading">2014</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3>Spatial coherence function for a wideband acoustic signal</h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong>, Sandra Collier, Vladimir Ostashev, D Keith Wilson</p>
+  <p class="pub-meta"><span>The Journal of the Acoustical Society of America, <strong>135</strong>, (4\_Supplement), 2382–2382</span><span class="pub-sep">•</span><span class="pub-year">2014</span></p>
+</article>
+  </div>
+</section>
 
-## 2017
+<section class="pub-year-block">
+  <div class="pub-year-heading">2013</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://egrove.olemiss.edu/etd/771/">Large Eddy Simulation of Surface Pressure Fluctuations Generated by Elevated Gusts</a></h3>
+  <p class="pub-authors">Jericho Erin Cain</p>
+  <p class="pub-meta"><span>Advisors: Richard Raspet, Nathan E. Murray, Joseph R. Gladden</span><span class="pub-sep">•</span><span class="pub-year">2013</span></p>
+  <p class="pub-links"><a href="https://egrove.olemiss.edu/etd/771/">Link</a></p>
+</article>
+  </div>
+</section>
 
-- Alexander Heye, Karthik Venkatesan, **Jericho Cain**. **[Precipitation Nowcasting: Leveraging Deep Recurrent Convolutional Neural Networks](https://cug.org/proceedings/cug2017_proceedings/includes/files/pap155s2-file1.pdf)**. *Proceedings of the CUG 2017 Workshops, 1–8*, 2017 · [Link](https://cug.org/proceedings/cug2017_proceedings/includes/files/pap155s2-file1.pdf)
+<section class="pub-year-block">
+  <div class="pub-year-heading">2011</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3>Detection of turbulence aloft by infrasonic wind noise measurements on the ground</h3>
+  <p class="pub-authors"><strong>Jericho Cain</strong>, Richard Raspet</p>
+  <p class="pub-meta"><span>The Journal of the Acoustical Society of America, <strong>130</strong>, (4\_Supplement), 2437–2437</span><span class="pub-sep">•</span><span class="pub-year">2011</span></p>
+</article>
+  </div>
+</section>
 
-## 2016
+<section class="pub-year-block">
+  <div class="pub-year-heading">2010</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3><a href="https://doi.org/10.1088/0264-9381/27/16/165023">Methods for Reducing False Alarms in Searches for Compact Binary Coalescences in LIGO Data</a></h3>
+  <p class="pub-authors">J. Slutsky, L. Blackburn, D. A. Brown, L. Cadonati, <strong>Jericho Cain</strong>, M. Cavagl\textbackslash\'ia, S. Chatterji, N. Christensen, M. Coughlin, S. Desai, G. Gonzalez, T. Isogai, E. Katsavounidis, B. Rankins, T. Reed, K. Riles, P. Shawhan, J. R. Smith, N. Zotov, J. Zweizig</p>
+  <p class="pub-meta"><span>Classical and Quantum Gravity, <strong>27</strong>, (16), 165023</span><span class="pub-sep">•</span><span class="pub-year">2010</span></p>
+  <p class="pub-links"><a href="https://doi.org/10.1088/0264-9381/27/16/165023">DOI</a></p>
+</article>
+  </div>
+</section>
 
-- Vladimir E Ostashev, D. Keith Wilson, Sandra L Collier, **Jericho Cain**, Sylvain Cheinet. **[Cross-frequency coherence and pulse propagation in a turbulent atmosphere](https://doi.org/10.1121/1.4959003)**. *Journal of the Acoustical Society of America, **140**, (1), 678*, 2016 · [DOI](https://doi.org/10.1121/1.4959003)
-- **Jericho Cain**. **Effects of turbulence on acoustic impulses propagating near the ground**. *Proc. French Acoustics Congress & Conference on Vibrations, Shocks, and Noise*, 2016
-- Sandra L Collier, Jericho E Cain, John M Noble, David A Ligon, WC Kirkpatrick Alberts, Leng Sim. **Inverse methods for Green’s function retrieval**. *Journal of the Acoustical Society of America, **139**, (4\_Supplement), 1985–1985*, 2016
+<section class="pub-year-block">
+  <div class="pub-year-heading">2008</div>
+  <div class="pub-year-list">
+<article class="pub-card">
+  <h3>Complete list of collaboration publications</h3>
+  <p class="pub-authors">The LIGO Scientific Collaboration, Virgo Collaboration, <strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span>https://www.ligo.org/scientists/publications.php</span><span class="pub-sep">•</span><span class="pub-year">2008–2010</span></p>
+</article>
+<article class="pub-card">
+  <h3><a href="https://doi.org/10.1063/1.2838136">The Radiation of Microbaroms from Isolated Hurricanes over Water</a></h3>
+  <p class="pub-authors">Roger Waxler, Kenneth E. Gilbert, <strong>Jericho Cain</strong></p>
+  <p class="pub-meta"><span>AIP Advances / Atmospheric Chemistry and Physics, <strong>1022</strong>, (1), 417-427</span><span class="pub-sep">•</span><span class="pub-year">2008</span></p>
+  <p class="pub-links"><a href="https://doi.org/10.1063/1.2838136">DOI</a></p>
+</article>
+  </div>
+</section>
 
-## 2015
-
-- Sandra L Collier, Jericho E Cain, John M Noble, WC Kirkpatrick Alberts, David A Ligon, Leng K Sim. **Green’s function retrieval for atmospheric acoustic propagation**. *The Journal of the Acoustical Society of America, **138**, (3\_Supplement), 1754–1754*, 2015
-- Jericho E Cain, Sandra L Collier, Vladimir E Ostashev, David K Wilson. **Signal coherence of broadband sound propagation through a refractive and turbulent atmosphere**. *Journal of the Acoustical Society of America, **137**, (4\_Supplement), 2224–2224*, 2015
-- Jericho E. Cain. **[Statistical moments of a wideband acoustic signal](https://doi.org/10.1121/2.0000062)**. *Proceedings of Meetings on Acoustics, 045004*, 2015 · [DOI](https://doi.org/10.1121/2.0000062)
-
-## 2014
-
-- **Jericho Cain**, Sandra Collier, Vladimir Ostashev, D Keith Wilson. **Spatial coherence function for a wideband acoustic signal**. *The Journal of the Acoustical Society of America, **135**, (4\_Supplement), 2382–2382*, 2014
-
-## 2013
-
-- Jericho Erin Cain. **[Large Eddy Simulation of Surface Pressure Fluctuations Generated by Elevated Gusts](https://egrove.olemiss.edu/etd/771/)**. *Advisors: Richard Raspet, Nathan E. Murray, Joseph R. Gladden*, 2013 · [Link](https://egrove.olemiss.edu/etd/771/)
-
-## 2011
-
-- **Jericho Cain**, Richard Raspet. **Detection of turbulence aloft by infrasonic wind noise measurements on the ground**. *The Journal of the Acoustical Society of America, **130**, (4\_Supplement), 2437–2437*, 2011
-
-## 2010
-
-- J. Slutsky, L. Blackburn, D. A. Brown, L. Cadonati, **Jericho Cain**, M. Cavagl\textbackslash\'ia, S. Chatterji, N. Christensen, M. Coughlin, S. Desai, G. Gonzalez, T. Isogai, E. Katsavounidis, B. Rankins, T. Reed, K. Riles, P. Shawhan, J. R. Smith, N. Zotov, J. Zweizig. **[Methods for Reducing False Alarms in Searches for Compact Binary Coalescences in LIGO Data](https://doi.org/10.1088/0264-9381/27/16/165023)**. *Classical and Quantum Gravity, **27**, (16), 165023*, 2010 · [DOI](https://doi.org/10.1088/0264-9381/27/16/165023)
-
-## 2008
-
-- The LIGO Scientific Collaboration, Virgo Collaboration, **Jericho Cain**. **Complete list of collaboration publications**. *https://www.ligo.org/scientists/publications.php*, 2008–2010
-- Roger Waxler, Kenneth E. Gilbert, **Jericho Cain**. **[The Radiation of Microbaroms from Isolated Hurricanes over Water](https://doi.org/10.1063/1.2838136)**. *AIP Advances / Atmospheric Chemistry and Physics, **1022**, (1), 417-427*, 2008 · [DOI](https://doi.org/10.1063/1.2838136)
+<div class="publications-footer">
+  <a href="/research/">← Back to Research</a>
+</div>
+</div>
