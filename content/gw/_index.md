@@ -3,8 +3,6 @@ draft = false
 title = 'LISA Symposium 2026'
 +++
 
-# LISA Symposium 2026
-
 Jericho Cain  
 Portland Community College  
 Machine learning methods for confusion-limited gravitational-wave detection.
