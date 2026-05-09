@@ -8,11 +8,11 @@ Portland Community College
 Machine learning methods for confusion-limited gravitational-wave detection.
 
 ## CV
-[Curriculum Vitae](files/j_cain_cv.pdf)
+[Curriculum Vitae](/files/j_cain_cv.pdf)
 
 ## Poster
 
-[LISA Symposium 2026 Poster (PDF)](files/lisa_symposium_2026_poster.pdf)
+[LISA Symposium 2026 Poster (PDF)](/files/lisa_symposium_2026_poster.pdf)
 
 ## Publications and Preprints
 
