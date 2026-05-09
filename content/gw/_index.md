@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'LISA_Symposium_2026'
+title = 'LISA Symposium 2026'
 +++
 
 # LISA Symposium 2026
