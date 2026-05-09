@@ -7,11 +7,11 @@ Jericho Cain
 Portland Community College  
 Machine learning methods for confusion-limited gravitational-wave detection.
 
-## CV
-[Curriculum Vitae]({{< relURL "files/j_cain_cv.pdf" >}})
+<h2>CV</h2>
+<p><a href="/files/j_cain_cv.pdf">Curriculum Vitae</a></p>
 
-## Poster
-[LISA Symposium 2026 Poster (PDF)]({{< relURL "files/lisa_symposium_2026_poster.pdf" >}})
+<h2>Poster</h2>
+<p><a href="/files/lisa_symposium_2026_poster.pdf">LISA Symposium 2026 Poster (PDF)</a></p>
 
 ## Publications and Preprints
 
