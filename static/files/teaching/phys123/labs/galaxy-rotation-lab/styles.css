@@ -1,0 +1,138 @@
+.lab-shell {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+#rotation-plot {
+  width: 100%;
+  min-height: 500px;
+}
+
+label {
+  display: block;
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+.lab-explainer {
+  max-width: 850px;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.lab-explainer h2 {
+  margin-bottom: 0.5rem;
+}
+
+.lab-questions {
+  max-width: 850px;
+  margin-top: 3rem;
+  line-height: 1.7;
+}
+
+.lab-questions h2 {
+  margin-bottom: 1rem;
+}
+
+.lab-questions li {
+  margin-bottom: 1rem;
+}
+
+textarea {
+  width: 100%;
+  min-height: 90px;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.7rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.lab-report {
+  max-width: 850px;
+  margin-top: 3rem;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+@media print {
+  @page {
+    size: letter portrait;
+    margin: 0.35in;
+  }
+
+  #rotation-plot,
+  .lab-explainer,
+  .lab-questions,
+  #halo-slider {
+    display: none;
+  }
+
+  .lab-shell > h1,
+  .lab-shell > label {
+    display: none;
+  }
+
+  .lab-report {
+    display: block;
+    border: none;
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: white;
+  }
+
+  .report-plot-container {
+    width: 100%;
+    margin: 0.2in 0;
+    overflow: visible;
+    max-height: none;
+}
+  .report-plot {
+    transform: scale(0.75);
+    transform-origin: top center;
+  }
+
+  .report-plot svg {
+    width: 8in !important;
+    max-width: 8in !important;
+    height: auto !important;
+  }
+
+  .report-plot-container {
+    max-height: 3.7in;
+  }
+}
+
+.report-plot-container {
+  width: 100%;
+  overflow: hidden;
+  margin: 1.5rem 0;
+}
+
+.report-plot {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.report-plot svg {
+  width: 100% !important;
+  max-width: 900px;
+  height: auto !important;
+}

@@ -1,0 +1,78 @@
+---
+title: "Galaxy Rotation and Dark Matter"
+type: "lab"
+layout: "single"
+---
+
+<div class="lab-shell">
+  <h1>Galaxy Rotation and Dark Matter</h1>
+<div class="lab-explainer">
+  <h2>Background</h2>
+
+  <p>
+    Stars orbit the center of the Milky Way much like planets orbit the Sun.
+    Based only on the visible matter in the galaxy, astronomers expected stars
+    farther from the galactic center to move more slowly.
+  </p>
+
+  <p>
+    Instead, observations show that rotation speeds remain surprisingly high
+    even far from the center. This discrepancy suggests that galaxies contain
+    additional unseen mass known as <strong>dark matter</strong>.
+  </p>
+
+  <p>
+    In this activity, use the slider to adjust the strength of the dark matter
+    halo and compare the resulting model to the observed Milky Way rotation
+    curve.
+  </p>
+</div>
+  <div id="rotation-plot"></div>
+
+  <label>
+    Dark matter halo strength:
+    <input id="halo-slider" type="range" min="0" max="280" value="90">
+    <span id="halo-value">90</span>
+  </label>
+</div>
+
+
+<div class="lab-questions">
+  <h2>Questions</h2>
+
+  <label>Student name:
+    <input id="student-name" type="text" placeholder="Enter your name">
+  </label>
+
+  <ol>
+    <li>
+      <p>Describe what happens to the model rotation curve when the dark matter halo strength is increased.</p>
+      <textarea id="q1"></textarea>
+    </li>
+
+    <li>
+      <p>At low halo strength, how does the model compare to the observed Milky Way rotation curve in the outer regions?</p>
+      <textarea id="q2"></textarea>
+    </li>
+
+    <li>
+      <p>What evidence suggests visible matter alone cannot explain galaxy rotation speeds?</p>
+      <textarea id="q3"></textarea>
+    </li>
+
+    <li>
+      <p>Find a halo strength that gives the closest match. Record the value and explain your choice.</p>
+      <textarea id="q4"></textarea>
+    </li>
+
+    <li>
+      <p>Does the model perfectly match the observations? Why might real galaxies be more complicated?</p>
+      <textarea id="q5"></textarea>
+    </li>
+  </ol>
+
+  <button id="submit-lab">Create Report</button>
+</div>
+
+<div id="lab-report" class="lab-report hidden"></div>
+
