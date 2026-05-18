@@ -117,6 +117,10 @@ button {
   .report-plot-container {
     max-height: 3.7in;
   }
+
+  #print-report-button {
+    display: none;
+  }
 }
 
 .report-plot-container {

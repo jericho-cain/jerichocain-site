@@ -92,8 +92,15 @@ function drawPlot(haloStrength) {
       <p><strong>${q.prompt}</strong></p>
       <p>${q.answer || "No answer entered."}</p>
     `).join("")}
-    <button onclick="window.print()">Print or Save as PDF</button>
+    <button id="print-report-button" onclick="window.print()">
+      Print or Save as PDF
+    </button>
   `;
+
+  document.getElementById("print-report-button")?.scrollIntoView({
+    behavior: "smooth",
+    block: "center"
+  });
 }
 
 document.addEventListener("DOMContentLoaded", () => {
