@@ -5,6 +5,8 @@ lastmod = "2026-05-29T20:45:00-07:00"
 draft = false
 +++
 
+![citation](wikipedian_protestor.png)
+
 After years of using JabRef, I recently switched to Zotero and found it significantly more useful for managing a research library. Zotero manages papers, PDFs, notes, tags, and bibliographies in one place, while Better BibTeX provides excellent BibTeX support for LaTeX users.
 
 ## 1. Install Zotero
@@ -292,20 +294,6 @@ The bibliography files may contain hundreds of references; only cited references
 
 ---
 
-## 10. Why Zotero Works Well
-
-Compared to traditional BibTeX managers:
-
-* PDFs stay attached to papers.
-* Metadata, notes, and citations stay together.
-* Papers can belong to multiple collections.
-* Full-text PDF search is available.
-* BibTeX exports are automatic.
-* Notes and annotations remain attached to papers.
-* arXiv and journal versions can be managed cleanly.
-
-The result is a research library rather than simply a collection of BibTeX entries.
-
 ## 11. Recommended Workflow: Zotero + Better BibTeX + Git + Overleaf
 
 For researchers who use Git and Overleaf, this is one of the cleanest workflows available.
@@ -461,65 +449,6 @@ Then cite as usual:
 The citation keys are generated automatically by Better BibTeX.
 
 ---
-
-### Example Workflow
-
-Suppose you discover a new paper relevant to a manuscript.
-
-1. Save the paper from arXiv using the Zotero Connector.
-2. Drag it into the project collection.
-3. Better BibTeX automatically updates `references.bib`.
-4. Commit and push the changes.
-5. Recompile in Overleaf.
-
-No manual BibTeX editing.
-
-No copy/paste from ADS.
-
-No exporting individual references.
-
-No opening JabRef.
-
-The bibliography is maintained automatically from the Zotero collection.
-
----
-
-### Alternative: Subject-Based Bibliographies
-
-Some researchers prefer maintaining larger subject-specific bibliographies:
-
-```text
-gw.bib
-ml.bib
-security.bib
-teaching.bib
-```
-
-For interdisciplinary work, a manuscript may use multiple files:
-
-```latex
-\addbibresource{gw.bib}
-\addbibresource{ml.bib}
-```
-
-Only cited references appear in the final document, so it does not matter if each bibliography contains hundreds of entries.
-
-This approach works particularly well when the same references are reused across multiple papers.
-
----
-
-### Suggested Strategy
-
-For most researchers:
-
-* Collections organize papers by subject.
-* Tags track workflow and status.
-* Better BibTeX maintains bibliography files.
-* Git version-controls the manuscript and bibliography.
-* Overleaf provides collaboration and compilation.
-
-This creates a single source of truth for all references while keeping LaTeX projects reproducible and easy to maintain.
-
 I use Overleaf at my job doing research in ML in cybersecurity, but for my work on Gravitational Waves I maintain a publications git repo where I use an editor -- one of the nice things, is that I can use my references directory in my git repo for publications for Overleaf syncing, having access to everything regardless of where I am writing the paper!
 
 ---
@@ -659,24 +588,6 @@ Disadvantages:
 * PDFs are not automatically available on every machine
 
 This works surprisingly well if your primary goal is citation management.
-
----
-
-### Option C: WebDAV Storage
-
-Advanced users can configure Zotero to store attachments using WebDAV.
-
-Advantages:
-
-* Control your own storage
-* Often cheaper than Zotero storage
-
-Disadvantages:
-
-* More complicated setup
-* Additional maintenance
-
-Most users can ignore this option initially.
 
 ---
 
