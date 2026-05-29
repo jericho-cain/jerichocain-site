@@ -11,7 +11,7 @@ Notes on teaching, scientific computing, LaTeX workflows, and tools I use in cla
 
 - [Publishing LaTeX to D2L](/blog/publishing-latex-to-d2l/)
 
-- [Zotero + Better BibTeX Setup Guide for Researchers](/blog/zotero-better-bibtex)
+- [Zotero + Better BibTeX Setup Guide for Researchers](/blog/zotero/)
 ---
 
 [← Back to Home](/)

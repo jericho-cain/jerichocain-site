@@ -1,5 +1,5 @@
 +++
-title = "zotero-better-bibtex"
+title = "Zotero + Better BibTeX Setup Guide for Researchers"
 date = "2026-05-11T12:15:26-07:00"
 lastmod = "2026-05-29T20:45:00-07:00"
 draft = false
