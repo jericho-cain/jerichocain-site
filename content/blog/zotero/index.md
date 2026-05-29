@@ -306,7 +306,7 @@ Compared to traditional BibTeX managers:
 
 The result is a research library rather than simply a collection of BibTeX entries.
 
-# 11. Recommended Workflow: Zotero + Better BibTeX + Git + Overleaf
+## 11. Recommended Workflow: Zotero + Better BibTeX + Git + Overleaf
 
 For researchers who use Git and Overleaf, this is one of the cleanest workflows available.
 
@@ -328,7 +328,7 @@ The bibliography becomes an automatically generated artifact rather than somethi
 
 ---
 
-## Step 1: Create a Project Collection
+### Step 1: Create a Project Collection
 
 Create a collection corresponding to your manuscript:
 
@@ -346,7 +346,7 @@ A paper can belong to multiple collections without duplication.
 
 ---
 
-## Step 2: Export a Collection Using Better BibTeX
+### Step 2: Export a Collection Using Better BibTeX
 
 Right-click the collection:
 
@@ -386,7 +386,7 @@ Better BibTeX will now automatically update the file whenever papers are added, 
 
 ---
 
-## Step 3: Commit the Bibliography to Git
+### Step 3: Commit the Bibliography to Git
 
 Treat the bibliography like any other source file.
 
@@ -402,7 +402,7 @@ Because the file is generated automatically, you never need to edit it manually.
 
 ---
 
-## Step 4: Connect Git and Overleaf
+### Step 4: Connect Git and Overleaf
 
 Overleaf supports Git integration.
 
@@ -438,7 +438,7 @@ Your manuscript and bibliography appear automatically in Overleaf.
 
 ---
 
-## Step 5: Cite Normally in LaTeX
+### Step 5: Cite Normally in LaTeX
 
 For BibTeX:
 
@@ -462,7 +462,7 @@ The citation keys are generated automatically by Better BibTeX.
 
 ---
 
-## Example Workflow
+### Example Workflow
 
 Suppose you discover a new paper relevant to a manuscript.
 
@@ -484,7 +484,7 @@ The bibliography is maintained automatically from the Zotero collection.
 
 ---
 
-## Alternative: Subject-Based Bibliographies
+### Alternative: Subject-Based Bibliographies
 
 Some researchers prefer maintaining larger subject-specific bibliographies:
 
@@ -508,7 +508,7 @@ This approach works particularly well when the same references are reused across
 
 ---
 
-## Suggested Strategy
+### Suggested Strategy
 
 For most researchers:
 
@@ -523,7 +523,7 @@ This creates a single source of truth for all references while keeping LaTeX pro
 I use Overleaf at my job doing research in ML in cybersecurity, but for my work on Gravitational Waves I maintain a publications git repo where I use an editor -- one of the nice things, is that I can use my references directory in my git repo for publications for Overleaf syncing, having access to everything regardless of where I am writing the paper!
 
 ---
-# 12. Using Zotero Across Multiple Computers
+## 12. Using Zotero Across Multiple Computers
 
 One of Zotero's biggest advantages over traditional BibTeX managers is that your research library can be synchronized across multiple machines.
 
@@ -546,7 +546,7 @@ All machines can share the same:
 
 ---
 
-## Step 1: Create a Zotero Account
+### Step 1: Create a Zotero Account
 
 Create a free account:
 
@@ -569,7 +569,7 @@ Once synchronization completes, your collections, tags, notes, and metadata will
 
 ---
 
-## Step 2: Install Better BibTeX Everywhere
+### Step 2: Install Better BibTeX Everywhere
 
 Better BibTeX is installed separately on each machine.
 
@@ -590,9 +590,9 @@ After installation, verify:
 
 ---
 
-## Step 3: Understand What Syncs
+### Step 3: Understand What Syncs
 
-### Always Synced
+#### Always Synced
 
 ```text
 Papers
@@ -606,7 +606,7 @@ DOIs
 Abstracts
 ```
 
-### Optional
+#### Optional
 
 ```text
 PDFs
@@ -618,7 +618,7 @@ PDF synchronization depends on your storage configuration.
 
 ---
 
-## Option A: Zotero Cloud Storage (Simplest)
+### Option A: Zotero Cloud Storage (Simplest)
 
 Use Zotero's hosted storage.
 
@@ -636,7 +636,7 @@ For most researchers this is the easiest solution.
 
 ---
 
-## Option B: Metadata Sync Only
+### Option B: Metadata Sync Only
 
 Many researchers synchronize only:
 
@@ -662,7 +662,7 @@ This works surprisingly well if your primary goal is citation management.
 
 ---
 
-## Option C: WebDAV Storage
+### Option C: WebDAV Storage
 
 Advanced users can configure Zotero to store attachments using WebDAV.
 
@@ -680,7 +680,7 @@ Most users can ignore this option initially.
 
 ---
 
-## Step 4: Keep Bibliographies in Git
+### Step 4: Keep Bibliographies in Git
 
 Even if Zotero is synchronized, bibliography exports should still live inside the corresponding Git repository.
 
@@ -706,7 +706,7 @@ The exported `.bib` file is a generated artifact committed to the repository.
 
 ---
 
-## Recommended Multi-System Setup
+### Recommended Multi-System Setup
 
 For a researcher working across multiple machines:
 
