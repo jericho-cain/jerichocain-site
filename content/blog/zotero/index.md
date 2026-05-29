@@ -135,8 +135,6 @@ Collections answer:
 
 > What is this paper about?
 
----
-
 ### Tags
 
 Use tags for workflow, not topics.
@@ -294,7 +292,7 @@ The bibliography files may contain hundreds of references; only cited references
 
 ---
 
-## 11. Recommended Workflow: Zotero + Better BibTeX + Git + Overleaf
+## 10. Recommended Workflow: Zotero + Better BibTeX + Git + Overleaf
 
 For researchers who use Git and Overleaf, this is one of the cleanest workflows available.
 
@@ -314,7 +312,6 @@ Overleaf
 
 The bibliography becomes an automatically generated artifact rather than something you manually edit.
 
----
 
 ### Step 1: Create a Project Collection
 
@@ -332,7 +329,6 @@ As you discover papers relevant to a manuscript, add them to the appropriate pro
 
 A paper can belong to multiple collections without duplication.
 
----
 
 ### Step 2: Export a Collection Using Better BibTeX
 
@@ -372,7 +368,6 @@ For example:
 
 Better BibTeX will now automatically update the file whenever papers are added, removed, or modified within that collection.
 
----
 
 ### Step 3: Commit the Bibliography to Git
 
@@ -388,7 +383,6 @@ git push
 
 Because the file is generated automatically, you never need to edit it manually.
 
----
 
 ### Step 4: Connect Git and Overleaf
 
@@ -424,7 +418,6 @@ git push overleaf main
 
 Your manuscript and bibliography appear automatically in Overleaf.
 
----
 
 ### Step 5: Cite Normally in LaTeX
 
@@ -448,11 +441,11 @@ Then cite as usual:
 
 The citation keys are generated automatically by Better BibTeX.
 
----
+
 I use Overleaf at my job doing research in ML in cybersecurity, but for my work on Gravitational Waves I maintain a publications git repo where I use an editor -- one of the nice things, is that I can use my references directory in my git repo for publications for Overleaf syncing, having access to everything regardless of where I am writing the paper!
 
 ---
-## 12. Using Zotero Across Multiple Computers
+## 11. Using Zotero Across Multiple Computers
 
 One of Zotero's biggest advantages over traditional BibTeX managers is that your research library can be synchronized across multiple machines.
 
@@ -473,7 +466,6 @@ All machines can share the same:
 * Citation keys
 * Attachments (optional)
 
----
 
 ### Step 1: Create a Zotero Account
 
@@ -496,7 +488,6 @@ Enable:
 
 Once synchronization completes, your collections, tags, notes, and metadata will appear on every device automatically.
 
----
 
 ### Step 2: Install Better BibTeX Everywhere
 
@@ -517,7 +508,6 @@ After installation, verify:
 * Citation key pinning
 * Automatic export settings
 
----
 
 ### Step 3: Understand What Syncs
 
@@ -545,7 +535,6 @@ Supplementary files
 
 PDF synchronization depends on your storage configuration.
 
----
 
 ### Option A: Zotero Cloud Storage (Simplest)
 
@@ -563,7 +552,6 @@ Disadvantages:
 
 For most researchers this is the easiest solution.
 
----
 
 ### Option B: Metadata Sync Only
 
@@ -589,7 +577,6 @@ Disadvantages:
 
 This works surprisingly well if your primary goal is citation management.
 
----
 
 ### Step 4: Keep Bibliographies in Git
 
@@ -615,7 +602,6 @@ The Zotero library is your source of truth.
 
 The exported `.bib` file is a generated artifact committed to the repository.
 
----
 
 ### Recommended Multi-System Setup
 
