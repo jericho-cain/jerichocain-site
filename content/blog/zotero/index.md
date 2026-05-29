@@ -5,8 +5,6 @@ lastmod = "2026-05-29T20:45:00-07:00"
 draft = false
 +++
 
-# Zotero + Better BibTeX Setup Guide for Researchers
-
 After years of using JabRef, I recently switched to Zotero and found it significantly more useful for managing a research library. Zotero manages papers, PDFs, notes, tags, and bibliographies in one place, while Better BibTeX provides excellent BibTeX support for LaTeX users.
 
 ## 1. Install Zotero
