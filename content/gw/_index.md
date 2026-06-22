@@ -25,7 +25,7 @@ Code: https://github.com/jericho-cain/cwt-lstm-ae-grav-wav
 
 ### Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data
 
-CQG: Under Revision
+CQG: Provisionally Accepted
 
 Preprint: https://arxiv.org/abs/2511.12845
 
