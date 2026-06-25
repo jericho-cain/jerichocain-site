@@ -31,9 +31,9 @@ Preprint: https://arxiv.org/abs/2511.12845
 
 Code: https://github.com/jericho-cain/cwt-manifold-grav-wav
 
-### Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection
+### Global Structure in Learned Latent Representations of Confusion-Limited LISA Data 
 
-CQG: Submitted
+Note: Major revision should drop on Friday June 26, 2026.
 
 Preprint: https://arxiv.org/abs/2602.20212
 
