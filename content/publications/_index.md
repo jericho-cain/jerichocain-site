@@ -33,7 +33,7 @@ draft = false
   <p class="pub-links"><a href="https://arxiv.org/abs/2603.06774">arXiv</a></p>
 </article>
 <article class="pub-card">
-  <h3><a href="https://arxiv.org/abs/2602.20212">Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection</a></h3>
+  <h3><a href="https://arxiv.org/abs/2602.20212">Global Structure in Learned Latent Representations of Confusion-Limited LISA Data</a></h3>
   <p class="pub-authors"><strong>Jericho Cain</strong></p>
   <p class="pub-meta"><span class="pub-year">2026</span></p>
   <p class="pub-links"><a href="https://arxiv.org/abs/2602.20212">arXiv</a></p>
