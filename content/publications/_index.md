@@ -39,8 +39,13 @@ draft = false
   <p class="pub-links"><a href="https://arxiv.org/abs/2602.20212">arXiv</a></p>
 </article>
 <article class="pub-card">
-  <h3><a href="https://arxiv.org/abs/2602.11019">Mask-Based Window-Level Insider Threat Detection for Campaign Discovery</a></h3>
-  <p class="pub-authors"><strong>Jericho Cain</strong>, Hayden Beadles</p>
+  <h3>Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data</h3>
+  <p class="pub-authors">Jericho E Cain</p>
+  <p class="pub-meta"><span>Classical and Quantum Gravity</span><span class="pub-sep">•</span><span class="pub-year">2026</span></p>
+</article>
+<article class="pub-card">
+  <h3><a href="https://arxiv.org/abs/2602.11019">Signal Decomposition Reveals Structure in Insider Threat Detection under Sparse Temporal Data</a></h3>
+  <p class="pub-authors">Hayden Beadles, <strong>Jericho Cain</strong></p>
   <p class="pub-meta"><span class="pub-year">2026</span></p>
   <p class="pub-links"><a href="https://arxiv.org/abs/2602.11019">arXiv</a></p>
 </article>
@@ -49,18 +54,6 @@ draft = false
   <p class="pub-authors">Jericho E Cain</p>
   <p class="pub-meta"><span>Classical and Quantum Gravity</span><span class="pub-sep">•</span><span class="pub-year">2026</span></p>
   <p class="pub-links"><a href="http://iopscience.iop.org/article/10.1088/1361-6382/ae415e">Link</a></p>
-</article>
-  </div>
-</section>
-
-<section class="pub-year-block">
-  <div class="pub-year-heading">2025</div>
-  <div class="pub-year-list">
-<article class="pub-card">
-  <h3><a href="https://arxiv.org/abs/2511.12845">Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data</a></h3>
-  <p class="pub-authors"><strong>Jericho Cain</strong></p>
-  <p class="pub-meta"><span class="pub-year">2025</span></p>
-  <p class="pub-links"><a href="https://arxiv.org/abs/2511.12845">arXiv</a></p>
 </article>
   </div>
 </section>

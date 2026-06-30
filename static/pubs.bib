@@ -28,15 +28,14 @@
       url={https://arxiv.org/abs/2602.20212}, 
 }
 
-@misc{cain2025manifoldlearningsourceseparation,
-      title={Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data}, 
-      author={Jericho Cain},
-      year={2025},
-      eprint={2511.12845},
-      archivePrefix={arXiv},
-      primaryClass={physics.gen-ph},
-      url={https://arxiv.org/abs/2511.12845}, 
+@article{10.1088/1361-6382/ae83ff,
+  title = {Manifold Learning for Source Separation in Confusion-Limited Gravitational-Wave Data},
+  author = {Cain, Jericho E},
+  year = 2026,
+  journal = {Classical and Quantum Gravity},
+  abstract = {The Laser Interferometer Space Antenna (LISA) will observe gravitational waves in a regime that differs from ground-based detectors. Instead of searching for rare signals buried in loud instrumental noise, LISA's main challenge is that its data stream contains millions of unresolved galactic binaries. These blend into a confusion background, and the problem becomes distinguishing sources that stand out from that background. In this work we explore whether manifold-learning tools can help with that separation task using a controlled synthetic LISA-like dataset containing instrumental noise and simulated confusion backgrounds. We built a convolutional neural network (CNN) autoencoder trained solely on the confusion background. The model operates on scalograms produced using the continuous wavelet transform (CWT) and provides a reconstruction error, denoted {$\varepsilon$}(x), which measures how well the input scalogram lies on the learned background manifold. To incorporate geometric information from the latent space, we introduce an additional anomaly term, {$\delta\perp$}({$\varphi$}(x)), defined as the off-manifold distance obtained from a local tangent-space estimate. The combined anomaly score is s(x) = {$\alpha\cdot\varepsilon$}(x) + {$\beta\cdot\delta\perp$}({$\varphi$}(x)). Performance is evaluated using the area under the receiver operating characteristic curve (ROC-AUC) and average precision (AP). A grid search over {$\alpha$} and {$\beta$} revealed the best performance near {$\alpha$} = 0.5 and {$\beta$} = 2.0, indicating that latent-space geometry provides additional discriminative information beyond reconstruction error alone. With this combination, the method reaches ROC-AUC = 0.752 and AP = 0.810; at the threshold that optimizes the F1 score, precision = 0.81 and recall = 0.61. This corresponds to roughly a 35}
 }
+
 
 @article{10.1088/1361-6382/ae415e,
 	author={Cain, Jericho E},
@@ -46,16 +45,15 @@
 	year={2026},
 }
 
-@misc{cain2026maskbasedwindowlevelinsiderthreat,
-      title={Mask-Based Window-Level Insider Threat Detection for Campaign Discovery}, 
-      author={Jericho Cain and Hayden Beadles},
+@misc{beadles2026signaldecompositionrevealsstructure,
+      title={Signal Decomposition Reveals Structure in Insider Threat Detection under Sparse Temporal Data}, 
+      author={Hayden Beadles and Jericho Cain},
       year={2026},
       eprint={2602.11019},
       archivePrefix={arXiv},
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2602.11019}, 
 }
-
 
 @article{cain2024anomaly,
   title        = {Anomaly Detection in OKTA Logs using Autoencoders},
