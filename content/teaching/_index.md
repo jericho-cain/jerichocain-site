@@ -35,6 +35,14 @@ title = 'Teaching'
 </div>
 </div>
 
+<div class="course-card">
+<h3>PHY 123 — Galaxies and Cosmology</h3>
+<div class="course-meta">Spring/Summer</div>
+<div class="course-actions">
+<a class="btn" href="/teaching/physics123/">Course Page</a>
+</div>
+</div>
+
 </div>
 
 ---
@@ -43,11 +51,11 @@ title = 'Teaching'
 
 ## Teaching Philosophy
 
-I approach teaching physics as the task of helping students see the subject as a connected body of ideas rather than a collection of formulas to memorize. Topics that can initially seem routine — such as kinematics, oscillations, and conservation laws — are treated as foundational principles that reappear throughout the discipline.
+I approach teaching physics with the goal of helping students see the subject as a connected body of ideas rather than a collection of formulas to memorize. Topics that can initially seem routine -- such as kinematics, oscillations, and conservation laws -- are treated as foundational principles that reappear throughout the series.
 
 My goal is for students to understand not only how to solve problems, but what the underlying concepts mean and why they matter. I emphasize physical reasoning, dimensional analysis, and the interplay between mathematics and physical interpretation so that students gain confidence moving between models and real phenomena.
 
-By presenting introductory physics as the beginning of a larger intellectual framework, I aim to foster deeper engagement and long-term understanding.
+By presenting introductory physics as the beginning of a larger framework, I aim to foster deeper engagement and long-term understanding.
 
 </div>
 
