@@ -37,7 +37,8 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
     "sh2_101.jpg",
     "m33.jpg",
     "orion_nebula.jpg",
-    "m16.jpg"
+    "m16.jpg",
+    "ic1318.jpg"
   ];
 
   // Optional: captions (fallback to filename if missing)
