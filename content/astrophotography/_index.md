@@ -185,6 +185,10 @@ This isn’t a small accessory — it’s the central hub that powers and manage
 The Askar 32 mm guidescope paired with the ASI120MM Mini keeps guiding precise and trouble-free. It’s a lightweight setup that just works.
 {{< /gear >}}
 
+{{< gear title="Mounting – Apertura Anchor" >}}
+A simple but important part of the setup, the Apertura Anchor provides a secure, repeatable attachment point for mounting and stabilizing gear. It helps keep the rig organized and makes setup and teardown faster and more consistent.
+{{< /gear >}}
+
 {{< gear title="Dew Control – Dew Not 3\" Heater Strip" >}}
 The Dew Not strip wraps around my optics to keep them dry all night. Simple, reliable, and one of those things you don’t think about until you don’t have it.
 {{< /gear >}}
