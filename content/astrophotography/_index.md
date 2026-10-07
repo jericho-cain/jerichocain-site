@@ -76,7 +76,9 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
   "m33.jpg": "M33 (Triangulum Galaxy) – Distance: ~3 million light-years – Size: ~60,000 light-years across – A spiral galaxy and the third largest in our Local Group, containing about 40 billion stars.",
   "orion_nebula.jpg": "The Orion Nebula (Messier 42, M42) is a massive stellar nursery about 1,350 light-years away, spanning roughly 24 light-years, where ultraviolet radiation from young, massive stars ionizes gas and triggers ongoing star formation.",
 
-  "m16.jpg": "M16 (Eagle Nebula) — Distance: ~7,000 ly — Size: ~70 ly — A vast emission nebula and active star-forming region in Serpens, famous for the Pillars of Creation. A challenging target to frame at my 400 mm focal length due to its large angular extent."
+  "m16.jpg": "M16 (Eagle Nebula) — Distance: ~7,000 ly — Size: ~70 ly — A vast emission nebula and active star-forming region in Serpens, famous for the Pillars of Creation. A challenging target to frame at my 400 mm focal length due to its large angular extent.",
+
+  "ic1318.jpg": "IC 1318 (Gamma Cygni Nebula) — Distance: ~4,900 ly — Size: ~100 ly — A sprawling emission nebula in Cygnus surrounding the bright star Sadr, with glowing hydrogen clouds divided by prominent dark dust lanes."
 };
 
 
