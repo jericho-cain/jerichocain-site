@@ -36,7 +36,8 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
     "ngc_7635.jpg",
     "sh2_101.jpg",
     "m33.jpg",
-    "orion_nebula.jpg"
+    "orion_nebula.jpg",
+    "m16.jpg"
   ];
 
   // Optional: captions (fallback to filename if missing)
@@ -73,7 +74,9 @@ Click any image, then use **← / →** keys or on-screen arrows to navigate. Pr
   
   "sh2_101.jpg": "Sh2-101 (Tulip Nebula) — Distance: ~6,000 ly — Size: ~70 ly — Emission nebula in Cygnus, bright in hydrogen-alpha, with striking petal-like structure.",
   "m33.jpg": "M33 (Triangulum Galaxy) – Distance: ~3 million light-years – Size: ~60,000 light-years across – A spiral galaxy and the third largest in our Local Group, containing about 40 billion stars.",
-  "orion_nebula.jpg": "The Orion Nebula (Messier 42, M42) is a massive stellar nursery about 1,350 light-years away, spanning roughly 24 light-years, where ultraviolet radiation from young, massive stars ionizes gas and triggers ongoing star formation."
+  "orion_nebula.jpg": "The Orion Nebula (Messier 42, M42) is a massive stellar nursery about 1,350 light-years away, spanning roughly 24 light-years, where ultraviolet radiation from young, massive stars ionizes gas and triggers ongoing star formation.",
+
+  "m16.jpg": "M16 (Eagle Nebula) — Distance: ~7,000 ly — Size: ~70 ly — A vast emission nebula and active star-forming region in Serpens, famous for the Pillars of Creation. A challenging target to frame at my 400 mm focal length due to its large angular extent."
 };
 
 
